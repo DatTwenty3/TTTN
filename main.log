@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  20 APR 2021 19:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  20 APR 2021 20:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -827,24 +827,41 @@ e/bachkhoa.png>] (./main.toc)
 
  [1
 
+] [1
+
 ] [2
+
+] (./main.lof)
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+ [3
+
+] (./main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ [4
+
+] [1
 
 ] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 14436 strings out of 478994
- 275600 string characters out of 5857680
- 543986 words of memory out of 5000000
- 31644 multiletter control sequences out of 15000+600000
- 436391 words of font info for 62 fonts, out of 8000000 for 9000
+ 14456 strings out of 478994
+ 275834 string characters out of 5857680
+ 544986 words of memory out of 5000000
+ 31657 multiletter control sequences out of 15000+600000
+ 443202 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,9n,89p,558b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 87i,9n,89p,973b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/Software/texlive/2021/texmf-dist/fonts/enc/dvips/vntex/t5.e
 nc}<d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb><d:/
-Software/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/utmr8v.pfb>
-Output written on main.pdf (3 pages, 77054 bytes).
+Software/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/utmbi8v.pfb><d:/Softwa
+re/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/utmr8v.pfb>
+Output written on main.pdf (7 pages, 96660 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 47 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
