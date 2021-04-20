@@ -10,6 +10,22 @@
 \usepackage{float}
 \usepackage{tikz}
 \usetikzlibrary{calc}
+\usepackage{indentfirst} %thu vien thut dau dong
+\renewcommand{\baselinestretch}{1.2}% Gian dong 1.2
+\setlength{\parskip}{6pt} %spacing after
+\setlength{\parindent}{1cm} %thut dau dong moi doan
+\usepackage{titlesec}
+\titlespacing*{\section}{0pt}{0pt}{30pt} %Heading 1
+\titleformat*{\section}{\fontsize{16pt}{0pt}\selectfont \bfseries \centering}
+
+\titlespacing*{\subsection}{0pt}{10pt}{0pt} %Heading 2
+\titleformat*{\subsection}{\fontsize{14pt}{0pt}\selectfont \bfseries}
+
+\titlespacing*{\subsubsection}{0pt}{10pt}{0pt} %Heading 3
+\titleformat*{\subsubsection}{\fontsize{13pt}{0pt}\selectfont \bfseries \itshape}
+
+\titlespacing*{\paragraph}{0pt}{10pt}{0pt} %Heading 4
+\titleformat*{\paragraph}{\fontsize{13pt}{0pt}\selectfont \itshape}
 
 \begin{document}
 \begin{titlepage}
@@ -22,7 +38,7 @@
 	\centering
 	\includegraphics[scale=.30]{image/bachkhoa.png}
 \end{figure}
-\vspace{1.5cm}
+\vspace{0.5cm}
 \fontsize{24pt}{0pt}\selectfont BÁO CÁO\\
 \vspace{12pt}
 \textbf{\fontsize{32pt}{0pt}\selectfont THỰC TẬP TỐT NGHIỆP}
@@ -40,8 +56,31 @@
 	\fontsize{14pt}{0pt} \selectfont Giảng viên hướng dẫn:  &\fontsize{14pt}{0pt}\selectfont TS. VÕ QUẾ SƠN\\
 	\end{tabular}
 \end{table}
-\vspace{3cm}
+\vspace{2cm}
 \fontsize{14pt}{0pt} \selectfont TP Hồ Chí Minh, 4-2021
 \end{center}
 \end{titlepage}
+\cleardoublepage
+\addtocontents{toc}{\protect\thispagestyle{empty}}
+\tableofcontents
+\thispagestyle{empty}
+
+\cleardoublepage
+\section*{LỜI CẢM ƠN}
+\thispagestyle{empty}
+Xin chân thành gửi lời cảm ơn tới TS. Võ Quế Sơn đã nhiệt tình giúp đỡ em trong suốt học kỳ thực tập vừa qua. Những lời nhận xét, góp ý, hướng dẫn của thầy đã giúp em có một hướng đi rõ ràng, cũng như hướng thực hiện đồ án này. Xin chân thành gửi lời cảm ơn tới toàn thể quý thầy cô trường Đại học Bách Khoa 
+Thành phố Hồ Chí Minh đã giảng dạy, hướng dẫn và tạo mọi điều kiện, môi trường học tập tốt cho em trong những ngày tháng học tập tại trường. Đề tài thực tập được thực hiện bởi một thành viên, do thời gian có hạn, nên không thể tránh khỏi những thiếu sót. Rất mong nhận được sự góp ý của thầy để em học  hỏi thêm được nhiều kinh nghiệm và có thể thực hiện tốt hơn trong luận văn tốt nghiệp.
+
+\vspace{6pt}
+\hspace{7cm} TP. Hồ Chí Minh, ngày 20 tháng 04 năm 2021
+
+\hspace{9cm}\textbf{Sinh viên thực hiện}
+
+\vspace{2cm}
+\hspace{9.85cm}\textbf{LÊ ĐẠT}
+
+
+
+
+
 \end{document}

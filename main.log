@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  20 APR 2021 17:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  20 APR 2021 19:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -672,7 +672,22 @@ File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 es/tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )
-LaTeX Font Info:    Trying to load font information for T5+ptm on input line 14
+(d:/Software/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(d:/Software/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box62
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen264
+\ttl@minus=\dimen265
+\ttl@toksa=\toks38
+\titlewidth=\dimen266
+\titlewidthlast=\dimen267
+\titlewidthfirst=\dimen268
+)
+LaTeX Font Info:    Trying to load font information for T5+ptm on input line 30
 .
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/vntex/t5ptm.fd
@@ -681,7 +696,7 @@ File: t5utm.fd 2005/08/24 Fontinst v1.929 font definitions for T5/ptm.
 (d:/Software/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count290
-\l__pdf_internal_box=\box62
+\l__pdf_internal_box=\box63
 )
 
 LaTeX Warning: Unused global option(s):
@@ -690,22 +705,22 @@ LaTeX Warning: Unused global option(s):
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -744,16 +759,16 @@ LaTeX Font Info:    ... okay on input line 14.
 (d:/Software/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count291
-\scratchdimen=\dimen264
-\scratchbox=\box63
+\scratchdimen=\dimen269
+\scratchbox=\box64
 \nofMPsegments=\count292
 \nofMParguments=\count293
-\everyMPshowfont=\toks38
+\everyMPshowfont=\toks39
 \MPscratchCnt=\count294
-\MPscratchDim=\dimen265
+\MPscratchDim=\dimen270
 \MPnumerator=\count295
 \makeMPintoPDFobject=\count296
-\everyMPtoPDFconversion=\toks39
+\everyMPtoPDFconversion=\toks40
 ) (d:/Software/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -765,64 +780,71 @@ e
 <image/bachkhoa.png, id=4, 602.25pt x 602.25pt>
 File: image/bachkhoa.png Graphic file (type png)
 <use image/bachkhoa.png>
-Package pdftex.def Info: image/bachkhoa.png  used on input line 23.
+Package pdftex.def Info: image/bachkhoa.png  used on input line 39.
 (pdftex.def)             Requested size: 180.67639pt x 180.67639pt.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 37.
+ 53.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 37.
+ 53.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 37.
+ 53.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 37.
+ 53.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
-7.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+3.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
  [1
 
 {d:/Software/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./imag
-e/bachkhoa.png>] (./main.aux) ) 
+e/bachkhoa.png>] (./main.toc)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [1
+
+] [2
+
+] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 14137 strings out of 478994
- 271620 string characters out of 5857680
- 536843 words of memory out of 5000000
- 31356 multiletter control sequences out of 15000+600000
- 434128 words of font info for 61 fonts, out of 8000000 for 9000
+ 14436 strings out of 478994
+ 275600 string characters out of 5857680
+ 543986 words of memory out of 5000000
+ 31644 multiletter control sequences out of 15000+600000
+ 436391 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,9n,89p,406b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/Software/texlive/2021/texmf-dist/fonts/enc/d
-vips/vntex/t5.enc}<d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/
-utmb8v.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/utmr8v.
-pfb>
-Output written on main.pdf (1 page, 69446 bytes).
+ 87i,9n,89p,558b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/Software/texlive/2021/texmf-dist/fonts/enc/dvips/vntex/t5.e
+nc}<d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb><d:/
+Software/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/utmr8v.pfb>
+Output written on main.pdf (3 pages, 77054 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 15 compressed objects within 1 object stream
+ 29 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
