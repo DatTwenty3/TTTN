@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  20 APR 2021 20:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  21 APR 2021 10:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -702,7 +702,9 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [13pt].
 
-(./main.aux)
+(./main.aux (./Chapter 1/Chapter 1.aux) (./Chapter 2/Chapter 2.aux)
+(./Chapter 3/Chapter 3.aux) (./Chapter 4/Chapter 4.aux)
+(./Chapter 5/Chapter 5.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
@@ -821,13 +823,13 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
  [1
 
 {d:/Software/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./imag
-e/bachkhoa.png>] (./main.toc)
+e/bachkhoa.png>] (./main.toc [1
+
+])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [1
-
-] [1
+ [2] [1
 
 ] [2
 
@@ -843,25 +845,63 @@ e/bachkhoa.png>] (./main.toc)
 
  [4
 
-] [1
+]
+\openout2 = `"Chapter 1/Chapter 1.aux"'.
 
-] (./main.aux) ) 
+
+(./Chapter 1/Chapter 1.tex) [1
+
+
+]
+\openout2 = `"Chapter 2/Chapter 2.aux"'.
+
+ (./Chapter 2/Chapter 2.tex) [2
+
+
+
+]
+\openout2 = `"Chapter 3/Chapter 3.aux"'.
+
+
+(./Chapter 3/Chapter 3.tex) [3
+
+
+
+]
+\openout2 = `"Chapter 4/Chapter 4.aux"'.
+
+ (./Chapter 4/Chapter 4.tex) [4
+
+
+
+]
+\openout2 = `"Chapter 5/Chapter 5.aux"'.
+
+
+(./Chapter 5/Chapter 5.tex) [5
+
+
+
+] (./main.aux (./Chapter 1/Chapter 1.aux)
+(./Chapter 2/Chapter 2.aux) (./Chapter 3/Chapter 3.aux)
+(./Chapter 4/Chapter 4.aux) (./Chapter 5/Chapter 5.aux)) ) 
 Here is how much of TeX's memory you used:
- 14456 strings out of 478994
- 275834 string characters out of 5857680
- 544986 words of memory out of 5000000
- 31657 multiletter control sequences out of 15000+600000
+ 14511 strings out of 478994
+ 277009 string characters out of 5857680
+ 553353 words of memory out of 5000000
+ 31672 multiletter control sequences out of 15000+600000
  443202 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,9n,89p,973b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/Software/texlive/2021/texmf-dist/fonts/enc/dvips/vntex/t5.e
-nc}<d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb><d:/
-Software/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/utmbi8v.pfb><d:/Softwa
-re/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/utmr8v.pfb>
-Output written on main.pdf (7 pages, 96660 bytes).
+{d:/Software/texlive/
+2021/texmf-dist/fonts/enc/dvips/vntex/t5.enc}<d:/Software/texlive/2021/texmf-di
+st/fonts/type1/vntex/urwvn/utmb8v.pfb><d:/Software/texlive/2021/texmf-dist/font
+s/type1/vntex/urwvn/utmbi8v.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type
+1/vntex/urwvn/utmr8v.pfb>
+Output written on main.pdf (12 pages, 104730 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 62 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

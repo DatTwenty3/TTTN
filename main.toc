@@ -12,3 +12,24 @@
 \contentsline {subsubsection}{\numberline {1.2.1}Mục tiêu đề tài}{1}{}%
 \contentsline {subsubsection}{\numberline {1.2.2}Yêu cầu đề tài}{1}{}%
 \contentsline {subsubsection}{\numberline {1.2.3}Kế hoạch thực hiện}{1}{}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 2: LÝ THUYẾT}{2}{}%
+\contentsline {subsection}{\numberline {2.1}CÔNG NGHỆ LORA}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Khái niệm}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Nguyên lý hoạt động}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Module thu phát RF UART E32-TTL-100}{2}{}%
+\contentsline {subsection}{\numberline {2.2}GIAO THỨC MQTT}{2}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Khái niệm}{2}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Nguyên lý hoạt động}{2}{}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 3: MCU VÀ PHẦN CỨNG ĐƯỢC SỬ DỤNG TRONG THỰC TẬP}{3}{}%
+\contentsline {subsection}{\numberline {3.1}ARDUINO NANO}{3}{}%
+\contentsline {subsection}{\numberline {3.2}RASPBERRY PI 3}{3}{}%
+\contentsline {subsection}{\numberline {3.3}MODULE RF UART E32-TTL-100}{3}{}%
+\contentsline {subsection}{\numberline {3.4}DHT22 TEMPERATURE AND HUMIDITY SENSOR}{3}{}%
+\contentsline {subsection}{\numberline {3.5}MODULE 2 RELAY OPTO 5VDC}{3}{}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 4: KẾT QUẢ THỰC HIỆN}{4}{}%
+\contentsline {subsection}{\numberline {4.1}KẾT QUẢ THI CÔNG PHẦN CỨNG}{4}{}%
+\contentsline {subsection}{\numberline {4.2}KIỂM TRA ĐỘ CHÍNH XÁC THÔNG SỐ NHIỆT ĐỘ \& ĐỘ ẨM}{4}{}%
+\contentsline {subsection}{\numberline {4.3}KIỂM TRA HOẠT ĐỘNG CỦA MODULE 2 RELAY}{4}{}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 5: KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN}{5}{}%
+\contentsline {subsection}{\numberline {5.1}KẾT LUẬN}{5}{}%
+\contentsline {subsection}{\numberline {5.2}HƯỚNG PHÁT TRIỂN}{5}{}%
