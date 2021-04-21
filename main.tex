@@ -27,6 +27,14 @@
 \titlespacing*{\paragraph}{0pt}{10pt}{0pt} %Heading 4
 \titleformat*{\paragraph}{\fontsize{13pt}{0pt}\selectfont \itshape}
 
+\renewcommand{\figurename}{\fontsize{12pt}{0pt}\selectfont \bfseries Hình}
+\renewcommand{\thefigure}{\thesection.\arabic{figure}}
+\usepackage{caption}
+\captionsetup[figure]{labelsep=space}
+
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4}
+
 \begin{document}
 \begin{titlepage}
 
