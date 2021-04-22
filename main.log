@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  21 APR 2021 17:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  22 APR 2021 23:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -720,8 +720,11 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [13pt].
 
-(./main.aux (./Chapter 1/Chapter 1.aux) (./Chapter 2/Chapter 2.aux)
-(./Chapter 3/Chapter 3.aux) (./Chapter 4/Chapter 4.aux)
+(./main.aux (./Chapter 1/Chapter 1.aux) (./Chapter 2/Chapter 2.aux
+
+LaTeX Warning: Label `hinh22' multiply defined.
+
+) (./Chapter 3/Chapter 3.aux) (./Chapter 4/Chapter 4.aux)
 (./Chapter 5/Chapter 5.aux))
 \openout1 = `main.aux'.
 
@@ -905,54 +908,88 @@ Package pdftex.def Info: Chapter 1/image chapter 1/kehoachthuchien.png  used on
 \openout2 = `"Chapter 2/Chapter 2.aux"'.
 
 
-(./Chapter 2/Chapter 2.tex) [4
+(./Chapter 2/Chapter 2.tex
+<Chapter 2/image chapter 2/tamxaLoRa.png, id=46, 602.25pt x 301.125pt>
+File: Chapter 2/image chapter 2/tamxaLoRa.png Graphic file (type png)
+<use Chapter 2/image chapter 2/tamxaLoRa.png>
+Package pdftex.def Info: Chapter 2/image chapter 2/tamxaLoRa.png  used on input
+ line 13.
+(pdftex.def)             Requested size: 301.12425pt x 150.56212pt.
+ [4
 
 
 
-]
+ <./Chapter 2/image chapter 2/tamxaLoRa.png>]
+<Chapter 2/image chapter 2/E32.jpg, id=51, 752.8125pt x 417.56pt>
+File: Chapter 2/image chapter 2/E32.jpg Graphic file (type jpg)
+<use Chapter 2/image chapter 2/E32.jpg>
+Package pdftex.def Info: Chapter 2/image chapter 2/E32.jpg  used on input line 
+32.
+(pdftex.def)             Requested size: 301.11966pt x 167.02103pt.
+<Chapter 2/image chapter 2/sodochanvachucnangE32.png, id=52, 840.13875pt x 229.
+60782pt>
+File: Chapter 2/image chapter 2/sodochanvachucnangE32.png Graphic file (type pn
+g)
+<use Chapter 2/image chapter 2/sodochanvachucnangE32.png>
+Package pdftex.def Info: Chapter 2/image chapter 2/sodochanvachucnangE32.png  u
+sed on input line 54.
+(pdftex.def)             Requested size: 420.06834pt x 114.80362pt.
+<Chapter 2/image chapter 2/workmodeE32.png, id=53, 626.34pt x 372.64218pt>
+File: Chapter 2/image chapter 2/workmodeE32.png Graphic file (type png)
+<use Chapter 2/image chapter 2/workmodeE32.png>
+Package pdftex.def Info: Chapter 2/image chapter 2/workmodeE32.png  used on inp
+ut line 60.
+(pdftex.def)             Requested size: 313.16922pt x 186.32063pt.
+
+[5 <./Chapter 2/image chapter 2/E32.jpg>]) [6 <./Chapter 2/image chapter 2/sodo
+chanvachucnangE32.PNG> <./Chapter 2/image chapter 2/workmodeE32.PNG>]
 \openout2 = `"Chapter 3/Chapter 3.aux"'.
 
- (./Chapter 3/Chapter 3.tex) [5
+
+(./Chapter 3/Chapter 3.tex) [7
 
 
 
 ]
 \openout2 = `"Chapter 4/Chapter 4.aux"'.
 
-
-(./Chapter 4/Chapter 4.tex) [6
+ (./Chapter 4/Chapter 4.tex) [8
 
 
 
 ]
 \openout2 = `"Chapter 5/Chapter 5.aux"'.
 
- (./Chapter 5/Chapter 5.tex) [7
+
+(./Chapter 5/Chapter 5.tex) [9
 
 
 
-] (./main.aux
-(./Chapter 1/Chapter 1.aux) (./Chapter 2/Chapter 2.aux)
-(./Chapter 3/Chapter 3.aux) (./Chapter 4/Chapter 4.aux)
-(./Chapter 5/Chapter 5.aux)) ) 
+] (./main.aux (./Chapter 1/Chapter 1.aux)
+(./Chapter 2/Chapter 2.aux) (./Chapter 3/Chapter 3.aux)
+(./Chapter 4/Chapter 4.aux) (./Chapter 5/Chapter 5.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 15777 strings out of 478994
- 301620 string characters out of 5857680
- 575526 words of memory out of 5000000
- 32925 multiletter control sequences out of 15000+600000
+ 15807 strings out of 478994
+ 302640 string characters out of 5857680
+ 575586 words of memory out of 5000000
+ 32949 multiletter control sequences out of 15000+600000
  444594 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,9n,89p,973b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/Software/texlive/2021/texmf-dist/fonts/enc/dv
-ips/base/8r.enc}{d:/Software/texlive/2021/texmf-dist/fonts/enc/dvips/vntex/t5.e
-nc}<d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb><d:/
-Software/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/utmbi8v.pfb><d:/Softwa
-re/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><d:/Software/texliv
-e/2021/texmf-dist/fonts/type1/vntex/urwvn/utmr8v.pfb>
-Output written on main.pdf (14 pages, 125834 bytes).
+{d:/Software/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{d:/Software
+/texlive/2021/texmf-dist/fonts/enc/dvips/vntex/t5.enc}<d:/Software/texlive/2021
+/texmf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb><d:/Software/texlive/2021/texmf-
+dist/fonts/type1/vntex/urwvn/utmbi8v.pfb><d:/Software/texlive/2021/texmf-dist/f
+onts/type1/urw/times/utmr8a.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type
+1/vntex/urwvn/utmr8v.pfb>
+Output written on main.pdf (16 pages, 246978 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
