@@ -1,5 +1,8 @@
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Kế hoạch thực hiện}}{3}{}%
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Ảnh minh hoạ tầm xa LoRa}}{4}{}%
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Module RF UART E32-TTL-100}}{5}{}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Sơ đồ chân và chức năng của module LoRa E32}}{6}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Sơ đồ chân và chức năng của module LoRa E32}}{5}{}%
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Chế độ làm việc của module LoRa E32}}{6}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Lịch sử hình thành MQTT}}{7}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Cơ chế tổng quan MQTT}}{7}{}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Kiến trúc thành phần MQTT}}{8}{}%

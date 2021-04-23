@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  23 APR 2021 11:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  23 APR 2021 10:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -705,7 +705,7 @@ Package caption Info: Standard document class detected.
 \c@continuedfloat=\count291
 Package caption Info: float package is loaded.
 )
-LaTeX Font Info:    Trying to load font information for T5+ptm on input line 39
+LaTeX Font Info:    Trying to load font information for T5+ptm on input line 38
 .
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/vntex/t5ptm.fd
@@ -720,27 +720,25 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [13pt].
 
-(./main.aux (./Chapter 1/Chapter 1.aux) (./Chapter 2/Chapter 2.aux)
-(./Chapter 3/Chapter 3.aux) (./Chapter 4/Chapter 4.aux)
-(./Chapter 5/Chapter 5.aux))
+(build/main.aux (./Chapter 1/Chapter 1.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -802,226 +800,92 @@ Package caption Info: End \AtBeginDocument code.
 <image/bachkhoa.png, id=4, 602.25pt x 602.25pt>
 File: image/bachkhoa.png Graphic file (type png)
 <use image/bachkhoa.png>
-Package pdftex.def Info: image/bachkhoa.png  used on input line 48.
+Package pdftex.def Info: image/bachkhoa.png  used on input line 47.
 (pdftex.def)             Requested size: 180.67639pt x 180.67639pt.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 62.
+ 61.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 62.
+ 61.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 62.
+ 61.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 62.
+ 61.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 6
-2.
+1.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
  [1
 
 {d:/Software/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./imag
-e/bachkhoa.png>] (./main.toc [1
-
-])
+e/bachkhoa.png>] (build/main.toc)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [2] [1
+ [1
+
+] [1
 
 ] [2
 
-] (./main.lof)
+] (build/main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
  [3
 
-] (./main.lot)
+] (build/main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [4
+
+[4
 
 ]
-\openout2 = `"Chapter 1/Chapter 1.aux"'.
+! I can't write on file `"Chapter 1/Chapter 1.aux"'.
+\@include ...mmediate \openout \@partaux "#1.aux" 
+                                                  \immediate \write \@partau...
+l.107 \include{Chapter 1/Chapter 1}
+                                   
+(Press Enter to retry, or Control-Z to exit; default file extension is `.tex')
+Please type another output file name
+! Emergency stop.
+\@include ...mmediate \openout \@partaux "#1.aux" 
+                                                  \immediate \write \@partau...
+l.107 \include{Chapter 1/Chapter 1}
+                                   
+*** (job aborted, file error in nonstop mode)
 
-
-(./Chapter 1/Chapter 1.tex
-
-LaTeX Warning: Citation `bor2016lora' on page 1 undefined on input line 7.
-
-
-Overfull \hbox (10.58815pt too wide) in paragraph at lines 6--18
-[]\T5/ptm/m/n/10 MQTT (^^^¦y ^^_õ l  Mes-sage Queu-ing Teleme-try Trans-port) l
-  mët giao thùc gûi t½n hi»u d¤ng pub-lish/subscribe.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--18
-
- []
-
-[1
-
-
-]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
-3.
- (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-<Chapter 1/image chapter 1/kehoachthuchien.png, id=37, 216.81pt x 563.10374pt>
-File: Chapter 1/image chapter 1/kehoachthuchien.png Graphic file (type png)
-<use Chapter 1/image chapter 1/kehoachthuchien.png>
-Package pdftex.def Info: Chapter 1/image chapter 1/kehoachthuchien.png  used on
- input line 45.
-(pdftex.def)             Requested size: 108.40472pt x 281.55118pt.
-) [2]
-[3 <./Chapter 1/image chapter 1/kehoachthuchien.png>]
-\openout2 = `"Chapter 2/Chapter 2.aux"'.
-
-
-(./Chapter 2/Chapter 2.tex
-<Chapter 2/image chapter 2/tamxaLoRa.png, id=46, 602.25pt x 301.125pt>
-File: Chapter 2/image chapter 2/tamxaLoRa.png Graphic file (type png)
-<use Chapter 2/image chapter 2/tamxaLoRa.png>
-Package pdftex.def Info: Chapter 2/image chapter 2/tamxaLoRa.png  used on input
- line 12.
-(pdftex.def)             Requested size: 301.12425pt x 150.56212pt.
- [4
-
-
-
- <./Chapter 2/image chapter 2/tamxaLoRa.png>]
-<Chapter 2/image chapter 2/E32.jpg, id=51, 752.8125pt x 417.56pt>
-File: Chapter 2/image chapter 2/E32.jpg Graphic file (type jpg)
-<use Chapter 2/image chapter 2/E32.jpg>
-Package pdftex.def Info: Chapter 2/image chapter 2/E32.jpg  used on input line 
-31.
-(pdftex.def)             Requested size: 301.11966pt x 167.02103pt.
-<Chapter 2/image chapter 2/sodochanvachucnangE32.png, id=52, 840.13875pt x 229.
-60782pt>
-File: Chapter 2/image chapter 2/sodochanvachucnangE32.png Graphic file (type pn
-g)
-<use Chapter 2/image chapter 2/sodochanvachucnangE32.png>
-Package pdftex.def Info: Chapter 2/image chapter 2/sodochanvachucnangE32.png  u
-sed on input line 37.
-(pdftex.def)             Requested size: 420.06834pt x 114.80362pt.
-
-[5 <./Chapter 2/image chapter 2/E32.jpg> <./Chapter 2/image chapter 2/sodochanv
-achucnangE32.PNG>]
-<Chapter 2/image chapter 2/workmodeE32.png, id=57, 626.34pt x 372.64218pt>
-File: Chapter 2/image chapter 2/workmodeE32.png Graphic file (type png)
-<use Chapter 2/image chapter 2/workmodeE32.png>
-Package pdftex.def Info: Chapter 2/image chapter 2/workmodeE32.png  used on inp
-ut line 59.
-(pdftex.def)             Requested size: 313.16922pt x 186.32063pt.
-<Chapter 2/image chapter 2/lichsuMQTT.png, id=58, 411.5375pt x 134.5025pt>
-File: Chapter 2/image chapter 2/lichsuMQTT.png Graphic file (type png)
-<use Chapter 2/image chapter 2/lichsuMQTT.png>
-Package pdftex.def Info: Chapter 2/image chapter 2/lichsuMQTT.png  used on inpu
-t line 82.
-(pdftex.def)             Requested size: 288.07428pt x 94.1511pt.
- [6 <./Chapter 2/image chapter 2/workmodeE32.PNG>]
-<Chapter 2/image chapter 2/cochetongquanMQTT.png, id=64, 414.54875pt x 146.5475
-pt>
-File: Chapter 2/image chapter 2/cochetongquanMQTT.png Graphic file (type png)
-<use Chapter 2/image chapter 2/cochetongquanMQTT.png>
-Package pdftex.def Info: Chapter 2/image chapter 2/cochetongquanMQTT.png  used 
-on input line 103.
-(pdftex.def)             Requested size: 290.18214pt x 102.58253pt.
-<Chapter 2/image chapter 2/kientrucMQTT.png, id=65, 437.635pt x 268.00125pt>
-File: Chapter 2/image chapter 2/kientrucMQTT.png Graphic file (type png)
-<use Chapter 2/image chapter 2/kientrucMQTT.png>
-Package pdftex.def Info: Chapter 2/image chapter 2/kientrucMQTT.png  used on in
-put line 112.
-(pdftex.def)             Requested size: 306.3424pt x 187.59958pt.
- [7 <./Chapter 2/image chapter 2/lichsuMQTT.png (PNG copy)> <./Chapter 2/image 
-chapter 2/cochetongquanMQTT.png (PNG copy)>]) [8 <./Chapter 2/image chapter 2/k
-ientrucMQTT.png (PNG copy)>]
-\openout2 = `"Chapter 3/Chapter 3.aux"'.
-
- (./Chapter 3/Chapter 3.tex) [9
-
-
-
-]
-\openout2 = `"Chapter 4/Chapter 4.aux"'.
-
- (./Chapter 4/Chapter 4.tex)
-[10
-
-
-
-]
-\openout2 = `"Chapter 5/Chapter 5.aux"'.
-
- (./Chapter 5/Chapter 5.tex) [11
-
-
-
-] (./main.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 24.
-
-) [12
-
-
-
-] (./main.aux (./Chapter 1/Chapter 1.aux) (./Chapter 2/Chapter 2.aux)
-(./Chapter 3/Chapter 3.aux) (./Chapter 4/Chapter 4.aux)
-(./Chapter 5/Chapter 5.aux))
-
-LaTeX Warning: There were undefined references.
-
- ) 
+ 
 Here is how much of TeX's memory you used:
- 15842 strings out of 478994
- 303603 string characters out of 5857680
- 575599 words of memory out of 5000000
- 32977 multiletter control sequences out of 15000+600000
- 446822 words of font info for 68 fonts, out of 8000000 for 9000
+ 15682 strings out of 478994
+ 299736 string characters out of 5857680
+ 566277 words of memory out of 5000000
+ 32875 multiletter control sequences out of 15000+600000
+ 436391 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,9n,89p,973b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/Software/texlive/2021/texmf-dist/fonts/enc/dvips/vntex/t5.enc}{d:/Softwar
-e/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/Software/texlive/2021
-/texmf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb><d:/Software/texlive/2021/texmf-
-dist/fonts/type1/vntex/urwvn/utmbi8v.pfb><d:/Software/texlive/2021/texmf-dist/f
-onts/type1/urw/times/utmr8a.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type
-1/vntex/urwvn/utmr8v.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex
-/urwvn/utmri8v.pfb>
-Output written on main.pdf (19 pages, 497989 bytes).
-PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 58 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+!  ==> Fatal error occurred, no output PDF file produced!
