@@ -33,4 +33,4 @@
 \contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 5: KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN}{11}{}%
 \contentsline {subsection}{\numberline {5.1}KẾT LUẬN}{11}{}%
 \contentsline {subsection}{\numberline {5.2}HƯỚNG PHÁT TRIỂN}{11}{}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } TÀI LIỆU}{12}{}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } TÀI LIỆU THAM KHẢO}{12}{}%

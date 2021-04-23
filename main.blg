@@ -22,13 +22,18 @@ White space in argument---line 11 of file main.aux
  :                 5/Chapter 5.aux}
 I'm skipping whatever remains of this command
 The style file: IEEEtran.bst
-I found no \citation commands---while reading file main.aux
+I couldn't open database file tailieu.bib
+---line 14 of file main.aux
+ : \bibdata{tailieu
+ :                 }
+I'm skipping whatever remains of this command
+I found no database files---while reading file main.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Database file #1: reference.bib
+Warning--I didn't find a database entry for "QuangTaiLoRa"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
@@ -36,7 +41,7 @@ Database file #1: reference.bib
 Done.
 You've used 0 entries,
             4087 wiz_defined-function locations,
-            821 strings with 7286 characters,
+            823 strings with 7308 characters,
 and the built_in function-call counts, 104 in all, are:
 = -- 0
 > -- 0
@@ -75,4 +80,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 22
-(There were 6 error messages)
+(There were 7 error messages)
