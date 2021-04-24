@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  23 APR 2021 13:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  24 APR 2021 16:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -668,6 +668,140 @@ File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 es/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )))
+(d:/Software/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(d:/Software/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(d:/Software/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(d:/Software/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(d:/Software/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(d:/Software/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (d:/Software/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(d:/Software/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(d:/Software/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(d:/Software/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(d:/Software/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen264
+\Hy@linkcounter=\count290
+\Hy@pagecounter=\count291
+
+(d:/Software/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(d:/Software/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.de
+f
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+) (d:/Software/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(d:/Software/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count292
+
+(d:/Software/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count293
+
+(d:/Software/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen265
+
+(d:/Software/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(d:/Software/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count294
+\Field@Width=\dimen266
+\Fld@charsize=\dimen267
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(d:/Software/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count295
+\c@Item=\count296
+\c@Hfootnote=\count297
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(d:/Software/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+
+(d:/Software/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count298
+\c@bookmark@seq@number=\count299
+
+(d:/Software/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.st
+y
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(d:/Software/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.st
+y
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+)
 (d:/Software/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librari
 es/tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2020/12/27 v3.1.8b (3.1.8b)
@@ -678,34 +812,35 @@ Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 (d:/Software/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box62
-\beforetitleunit=\skip52
-\aftertitleunit=\skip53
-\ttl@plus=\dimen264
-\ttl@minus=\dimen265
+\beforetitleunit=\skip53
+\aftertitleunit=\skip54
+\ttl@plus=\dimen268
+\ttl@minus=\dimen269
 \ttl@toksa=\toks38
-\titlewidth=\dimen266
-\titlewidthlast=\dimen267
-\titlewidthfirst=\dimen268
+\titlewidth=\dimen270
+\titlewidthlast=\dimen271
+\titlewidthfirst=\dimen272
 )
 (d:/Software/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen269
-\captionmargin@=\dimen270
-\captionwidth=\dimen271
-\caption@tempdima=\dimen272
-\caption@indent=\dimen273
-\caption@parindent=\dimen274
-\caption@hangindent=\dimen275
+\captionmargin=\dimen273
+\captionmargin@=\dimen274
+\captionwidth=\dimen275
+\caption@tempdima=\dimen276
+\caption@indent=\dimen277
+\caption@parindent=\dimen278
+\caption@hangindent=\dimen279
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count290
-\c@continuedfloat=\count291
+\c@caption@flags=\count300
+\c@continuedfloat=\count301
 Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
 )
-LaTeX Font Info:    Trying to load font information for T5+ptm on input line 37
+LaTeX Font Info:    Trying to load font information for T5+ptm on input line 38
 .
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/vntex/t5ptm.fd
@@ -713,7 +848,7 @@ File: t5utm.fd 2005/08/24 Fontinst v1.929 font definitions for T5/ptm.
 )
 (d:/Software/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count292
+\l__color_backend_stack_int=\count302
 \l__pdf_internal_box=\box63
 )
 
@@ -725,22 +860,26 @@ LaTeX Warning: Unused global option(s):
 (./Chapter 5/Chapter 5.aux) (./References/References.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -778,16 +917,16 @@ LaTeX Font Info:    ... okay on input line 37.
 
 (d:/Software/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count293
-\scratchdimen=\dimen276
+\scratchcounter=\count303
+\scratchdimen=\dimen280
 \scratchbox=\box64
-\nofMPsegments=\count294
-\nofMParguments=\count295
+\nofMPsegments=\count304
+\nofMParguments=\count305
 \everyMPshowfont=\toks39
-\MPscratchCnt=\count296
-\MPscratchDim=\dimen277
-\MPnumerator=\count297
-\makeMPintoPDFobject=\count298
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen281
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
 \everyMPtoPDFconversion=\toks40
 ) (d:/Software/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -797,79 +936,105 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+Package hyperref Info: Link coloring OFF on input line 38.
+
+(d:/Software/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(d:/Software/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(d:/Software/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.
+sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count309
+)
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
+ (./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-<image/bachkhoa.png, id=4, 602.25pt x 602.25pt>
+<image/bachkhoa.png, id=141, 602.25pt x 602.25pt>
 File: image/bachkhoa.png Graphic file (type png)
 <use image/bachkhoa.png>
-Package pdftex.def Info: image/bachkhoa.png  used on input line 46.
+Package pdftex.def Info: image/bachkhoa.png  used on input line 47.
 (pdftex.def)             Requested size: 180.67639pt x 180.67639pt.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 60.
+ 61.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 60.
+ 61.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 60.
+ 61.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 60.
+ 61.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 6
-0.
+1.
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
  [1
 
 {d:/Software/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./imag
-e/bachkhoa.png>] (./main.toc [1
+e/bachkhoa.png>] (./main.tocpdfTeX warning (ext4): destination with the same id
+entifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.32 ... Cá»¦A MODULE 2 RELAY}{14}{subsection.4.3}
+                                                  % [1
 
 ])
-\tf@toc=\write4
-\openout4 = `main.toc'.
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
  [2] [1
 
 ] [2
 
-] (./main.lof)
-\tf@lof=\write5
-\openout5 = `main.lof'.
+]
+(./main.lof)
+\tf@lof=\write6
+\openout6 = `main.lof'.
 
  [3
 
 ] (./main.lot)
-\tf@lot=\write6
-\openout6 = `main.lot'.
+\tf@lot=\write7
+\openout7 = `main.lot'.
 
  [4
 
 ]
 \openout2 = `"Chapter 1/Chapter 1.aux"'.
 
-
-(./Chapter 1/Chapter 1.tex
+ (./Chapter 1/Chapter 1.tex
 Overfull \hbox (10.58815pt too wide) in paragraph at lines 6--18
 []\T5/ptm/m/n/10 MQTT (^^^¦y ^^_õ l  Mes-sage Queu-ing Teleme-try Trans-port) l
   mët giao thùc gûi t½n hi»u d¤ng pub-lish/subscribe.
@@ -885,28 +1050,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--18
 
  []
 
-[1
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.20 ...n{TÃ¬nh hÃ¬nh nghiÃªn cá»©u trong nÆ°á»›c}
+                                                   [1
 
 
 ]
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
 3.
- (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+
+(d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-<Chapter 1/image chapter 1/kehoachthuchien.png, id=37, 216.81pt x 563.10374pt>
+<Chapter 1/image chapter 1/kehoachthuchien.png, id=243, 216.81pt x 563.10374pt>
+
 File: Chapter 1/image chapter 1/kehoachthuchien.png Graphic file (type png)
 <use Chapter 1/image chapter 1/kehoachthuchien.png>
 Package pdftex.def Info: Chapter 1/image chapter 1/kehoachthuchien.png  used on
  input line 45.
 (pdftex.def)             Requested size: 108.40472pt x 281.55118pt.
-) [2]
-[3 <./Chapter 1/image chapter 1/kehoachthuchien.png>]
+)pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.107 \include{Chapter 1/Chapter 1}
+                                    [2] [3 <./Chapter 1/image chapter 1/kehoach
+thuchien.png>]
 \openout2 = `"Chapter 2/Chapter 2.aux"'.
 
-
-(./Chapter 2/Chapter 2.tex
-<Chapter 2/image chapter 2/tamxaLoRa.png, id=46, 602.25pt x 301.125pt>
+ (./Chapter 2/Chapter 2.tex
+<Chapter 2/image chapter 2/tamxaLoRa.png, id=253, 602.25pt x 301.125pt>
 File: Chapter 2/image chapter 2/tamxaLoRa.png Graphic file (type png)
 <use Chapter 2/image chapter 2/tamxaLoRa.png>
 Package pdftex.def Info: Chapter 2/image chapter 2/tamxaLoRa.png  used on input
@@ -917,108 +1093,176 @@ Package pdftex.def Info: Chapter 2/image chapter 2/tamxaLoRa.png  used on input
 
 
  <./Chapter 2/image chapter 2/tamxaLoRa.png>]
-<Chapter 2/image chapter 2/E32.jpg, id=51, 752.8125pt x 417.56pt>
+<Chapter 2/image chapter 2/E32.jpg, id=259, 752.8125pt x 417.56pt>
 File: Chapter 2/image chapter 2/E32.jpg Graphic file (type jpg)
 <use Chapter 2/image chapter 2/E32.jpg>
 Package pdftex.def Info: Chapter 2/image chapter 2/E32.jpg  used on input line 
 31.
 (pdftex.def)             Requested size: 301.11966pt x 167.02103pt.
-<Chapter 2/image chapter 2/sodochanvachucnangE32.png, id=52, 840.13875pt x 229.
-60782pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+[5 <./Chapter 2/image chapter 2/E32.jpg>]
+<Chapter 2/image chapter 2/lichsuMQTT.png, id=264, 411.5375pt x 134.5025pt>
+File: Chapter 2/image chapter 2/lichsuMQTT.png Graphic file (type png)
+<use Chapter 2/image chapter 2/lichsuMQTT.png>
+Package pdftex.def Info: Chapter 2/image chapter 2/lichsuMQTT.png  used on inpu
+t line 56.
+(pdftex.def)             Requested size: 288.07428pt x 94.1511pt.
+<Chapter 2/image chapter 2/cochetongquanMQTT.png, id=265, 414.54875pt x 146.547
+5pt>
+File: Chapter 2/image chapter 2/cochetongquanMQTT.png Graphic file (type png)
+<use Chapter 2/image chapter 2/cochetongquanMQTT.png>
+Package pdftex.def Info: Chapter 2/image chapter 2/cochetongquanMQTT.png  used 
+on input line 77.
+(pdftex.def)             Requested size: 290.18214pt x 102.58253pt.
+<Chapter 2/image chapter 2/kientrucMQTT.png, id=266, 437.635pt x 268.00125pt>
+File: Chapter 2/image chapter 2/kientrucMQTT.png Graphic file (type png)
+<use Chapter 2/image chapter 2/kientrucMQTT.png>
+Package pdftex.def Info: Chapter 2/image chapter 2/kientrucMQTT.png  used on in
+put line 86.
+(pdftex.def)             Requested size: 306.3424pt x 187.59958pt.
+ [6 <./Chapter 2/image chapter 2/lichsuMQTT.png (PNG copy)> <./Chapter 2/image 
+chapter 2/cochetongquanMQTT.png (PNG copy)>]) [7 <./Chapter 2/image chapter 2/k
+ientrucMQTT.png (PNG copy)>]
+\openout2 = `"Chapter 3/Chapter 3.aux"'.
+
+
+(./Chapter 3/Chapter 3.tex
+<Chapter 3/image chapter 3/nano.jpg, id=277, 1927.2pt x 1084.05pt>
+File: Chapter 3/image chapter 3/nano.jpg Graphic file (type jpg)
+<use Chapter 3/image chapter 3/nano.jpg>
+Package pdftex.def Info: Chapter 3/image chapter 3/nano.jpg  used on input line
+ 8.
+(pdftex.def)             Requested size: 289.06754pt x 162.60048pt.
+<Chapter 3/image chapter 3/sodoNano.png, id=278, 449.05266pt x 219.44484pt>
+File: Chapter 3/image chapter 3/sodoNano.png Graphic file (type png)
+<use Chapter 3/image chapter 3/sodoNano.png>
+Package pdftex.def Info: Chapter 3/image chapter 3/sodoNano.png  used on input 
+line 16.
+(pdftex.def)             Requested size: 314.33472pt x 153.61034pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+[8
+
+
+
+ <./Chapter 3/image chapter 3/nano.jpg> <./Chapter 3/image chapter 3/sodoNano.p
+ng>]
+<Chapter 3/image chapter 3/rasp3.jpg, id=283, 752.8125pt x 504.38437pt>
+File: Chapter 3/image chapter 3/rasp3.jpg Graphic file (type jpg)
+<use Chapter 3/image chapter 3/rasp3.jpg>
+Package pdftex.def Info: Chapter 3/image chapter 3/rasp3.jpg  used on input lin
+e 41.
+(pdftex.def)             Requested size: 376.40532pt x 252.19156pt.
+ [9 <./Chapter 3/image chapter 3/rasp3.jpg>]
+<Chapter 3/image chapter 3/raspGPIO.jpg, id=288, 602.25pt x 492.84125pt>
+File: Chapter 3/image chapter 3/raspGPIO.jpg Graphic file (type jpg)
+<use Chapter 3/image chapter 3/raspGPIO.jpg>
+Package pdftex.def Info: Chapter 3/image chapter 3/raspGPIO.jpg  used on input 
+line 67.
+(pdftex.def)             Requested size: 301.12425pt x 246.42001pt.
+File: Chapter 2/image chapter 2/E32.jpg Graphic file (type jpg)
+<use Chapter 2/image chapter 2/E32.jpg>
+Package pdftex.def Info: Chapter 2/image chapter 2/E32.jpg  used on input line 
+74.
+(pdftex.def)             Requested size: 301.11966pt x 167.02103pt.
+<Chapter 2/image chapter 2/sodochanvachucnangE32.png, id=289, 840.13875pt x 229
+.60782pt>
 File: Chapter 2/image chapter 2/sodochanvachucnangE32.png Graphic file (type pn
 g)
 <use Chapter 2/image chapter 2/sodochanvachucnangE32.png>
 Package pdftex.def Info: Chapter 2/image chapter 2/sodochanvachucnangE32.png  u
-sed on input line 37.
+sed on input line 80.
 (pdftex.def)             Requested size: 420.06834pt x 114.80362pt.
-
-[5 <./Chapter 2/image chapter 2/E32.jpg> <./Chapter 2/image chapter 2/sodochanv
-achucnangE32.PNG>]
-<Chapter 2/image chapter 2/workmodeE32.png, id=57, 626.34pt x 372.64218pt>
+ [10 <./Chapter 3/image chapter 3/raspGPIO.jpg>] [11 <./Chapter 2/image chapter
+ 2/sodochanvachucnangE32.PNG>]
+<Chapter 2/image chapter 2/workmodeE32.png, id=300, 626.34pt x 372.64218pt>
 File: Chapter 2/image chapter 2/workmodeE32.png Graphic file (type png)
 <use Chapter 2/image chapter 2/workmodeE32.png>
 Package pdftex.def Info: Chapter 2/image chapter 2/workmodeE32.png  used on inp
-ut line 59.
+ut line 102.
 (pdftex.def)             Requested size: 313.16922pt x 186.32063pt.
-<Chapter 2/image chapter 2/lichsuMQTT.png, id=58, 411.5375pt x 134.5025pt>
-File: Chapter 2/image chapter 2/lichsuMQTT.png Graphic file (type png)
-<use Chapter 2/image chapter 2/lichsuMQTT.png>
-Package pdftex.def Info: Chapter 2/image chapter 2/lichsuMQTT.png  used on inpu
-t line 82.
-(pdftex.def)             Requested size: 288.07428pt x 94.1511pt.
- [6 <./Chapter 2/image chapter 2/workmodeE32.PNG>]
-<Chapter 2/image chapter 2/cochetongquanMQTT.png, id=64, 414.54875pt x 146.5475
-pt>
-File: Chapter 2/image chapter 2/cochetongquanMQTT.png Graphic file (type png)
-<use Chapter 2/image chapter 2/cochetongquanMQTT.png>
-Package pdftex.def Info: Chapter 2/image chapter 2/cochetongquanMQTT.png  used 
-on input line 103.
-(pdftex.def)             Requested size: 290.18214pt x 102.58253pt.
-<Chapter 2/image chapter 2/kientrucMQTT.png, id=65, 437.635pt x 268.00125pt>
-File: Chapter 2/image chapter 2/kientrucMQTT.png Graphic file (type png)
-<use Chapter 2/image chapter 2/kientrucMQTT.png>
-Package pdftex.def Info: Chapter 2/image chapter 2/kientrucMQTT.png  used on in
-put line 112.
-(pdftex.def)             Requested size: 306.3424pt x 187.59958pt.
- [7 <./Chapter 2/image chapter 2/lichsuMQTT.png (PNG copy)> <./Chapter 2/image 
-chapter 2/cochetongquanMQTT.png (PNG copy)>]) [8 <./Chapter 2/image chapter 2/k
-ientrucMQTT.png (PNG copy)>]
-\openout2 = `"Chapter 3/Chapter 3.aux"'.
-
- (./Chapter 3/Chapter 3.tex) [9
-
-
-
-]
+<Chapter 3/image chapter 3/DHT22.jpg, id=301, 591.20876pt x 504.88625pt>
+File: Chapter 3/image chapter 3/DHT22.jpg Graphic file (type jpg)
+<use Chapter 3/image chapter 3/DHT22.jpg>
+Package pdftex.def Info: Chapter 3/image chapter 3/DHT22.jpg  used on input lin
+e 109.
+(pdftex.def)             Requested size: 295.60365pt x 252.44249pt.
+ [12 <./Chapter 2/image chapter 2/workmodeE32.PNG> <./Chapter 3/image chapter 3
+/DHT22.jpg>]
+<Chapter 3/image chapter 3/2relay.jpg, id=308, 2007.5pt x 2007.5pt>
+File: Chapter 3/image chapter 3/2relay.jpg Graphic file (type jpg)
+<use Chapter 3/image chapter 3/2relay.jpg>
+Package pdftex.def Info: Chapter 3/image chapter 3/2relay.jpg  used on input li
+ne 127.
+(pdftex.def)             Requested size: 200.76175pt x 200.76175pt.
+) [13 <./Chapter 3/image chapter 3/2relay.jpg>]
 \openout2 = `"Chapter 4/Chapter 4.aux"'.
 
- (./Chapter 4/Chapter 4.tex)
-[10
+
+(./Chapter 4/Chapter 4.tex) [14
 
 
 
 ]
 \openout2 = `"Chapter 5/Chapter 5.aux"'.
 
- (./Chapter 5/Chapter 5.tex) [11
+ (./Chapter 5/Chapter 5.tex) [15
 
 
 
 ]
 \openout2 = `References/References.aux'.
 
- (./References/References.tex)
-Overfull \hbox (34.98752pt too wide) in paragraph at lines 3--116
-[]\T5/ptm/m/n/10 [4]. \T5/ptm/m/it/10 S£n ph©m: M¤ch Thu Ph¡t RF UART Lora SX12
-78 433Mhz 3000m\T5/ptm/m/n/10 . Truy cªp tø: https://hshop.vn/products/mach-
- []
 
-[12
+(./References/References.tex
+LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 5
+.
+
+(d:/Software/texlive/2021/texmf-dist/tex/latex/vntex/t5cmtt.fd
+File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)) [16
 
 
 
-] (./main.aux (./Chapter 1/Chapter 1.aux) (./Chapter 2/Chapter 2.aux)
+]
+(./main.aux (./Chapter 1/Chapter 1.aux) (./Chapter 2/Chapter 2.aux)
 (./Chapter 3/Chapter 3.aux) (./Chapter 4/Chapter 4.aux)
-(./Chapter 5/Chapter 5.aux) (./References/References.aux)) ) 
+(./Chapter 5/Chapter 5.aux) (./References/References.aux))
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 7EA33EAC489FA78952F0F491B45A5CAF;7093.
+ ) 
 Here is how much of TeX's memory you used:
- 15841 strings out of 478994
- 303689 string characters out of 5857680
- 575914 words of memory out of 5000000
- 32971 multiletter control sequences out of 15000+600000
- 446822 words of font info for 68 fonts, out of 8000000 for 9000
+ 22367 strings out of 478994
+ 401957 string characters out of 5857680
+ 681634 words of memory out of 5000000
+ 39318 multiletter control sequences out of 15000+600000
+ 447133 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,9n,89p,973b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/Software/texliv
-e/2021/texmf-dist/fonts/enc/dvips/vntex/t5.enc}{d:/Software/texlive/2021/texmf-
-dist/fonts/enc/dvips/base/8r.enc}<d:/Software/texlive/2021/texmf-dist/fonts/typ
-e1/vntex/urwvn/utmb8v.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type1/vnte
-x/urwvn/utmbi8v.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type1/urw/times/
-utmr8a.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/utmr8v.
-pfb><d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on main.pdf (19 pages, 506851 bytes).
+ 87i,9n,89p,973b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/Software/texlive/2021/texmf-dist/fonts/enc/dvips/vntex/t5.enc}{d:/Softwar
+e/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/Software/texlive/2021
+/texmf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb><d:/Software/texlive/2021/texmf-
+dist/fonts/type1/vntex/urwvn/utmbi8v.pfb><d:/Software/texlive/2021/texmf-dist/f
+onts/type1/urw/times/utmr8a.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type
+1/vntex/urwvn/utmr8v.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex
+/urwvn/utmri8v.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex/vnr/v
+ntt10.pfb>
+Output written on main.pdf (23 pages, 2333818 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 58 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 369 PDF objects out of 1000 (max. 8388607)
+ 314 compressed objects within 4 object streams
+ 63 named destinations out of 1000 (max. 500000)
+ 368 words of extra memory for PDF output out of 10000 (max. 10000000)
 

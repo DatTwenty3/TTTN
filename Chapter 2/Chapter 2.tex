@@ -32,34 +32,8 @@ LoRa sử dụng kỹ thuật điều chế gọi là Chirp Spread Spectrum. Có
 	\caption[Module RF UART E32-TTL-100]{Module RF UART E32-TTL-100}
 	\label{hinh22}
 \end{figure}
-\begin{figure}[H]
-	\centering
-	\includegraphics[scale=.5]{Chapter 2/image chapter 2/sodochanvachucnangE32.png}
-	\caption[Sơ đồ chân và chức năng của module LoRa E32]{Sơ đồ chân và chức năng của module LoRa E32}
-	\label{hinh23}
-\end{figure}
 Mạch thu phát RF UART Lora SX1278 433Mhz 3000m sử dụng chip SX1278 của nhà sản xuất SEMTECH chuẩn giao tiếp LORA (Long Range), chuẩn LORA mang đến hai yếu tố quan trọng là tiết kiệm năng lượng và khoảng cách phát siêu xa ( Ultimate long range wireless solution), ngoài ra nó còn có khả năng cấu hình để tạo thành mạng nên hiện tại được phát triển và sử dụng rất nhiều trong các nghiên cứu về IoT.\\
-\indent Mạch thu phát RF UART Lora SX1278 433Mhz 3000m được tích hợp phần chuyển đổi giao tiếp SPI của SX1278 sang UART giúp việc giao tiếp và sử dụng rất dễ dàng, chỉ cần kết nối với Software của hãng để cấu hình địa chỉ , tốc độ và công suất truyền là có thể sử dụngnguyễn2000chu.\\
-\indent \textbf{Thông số kỹ thuật:}
-\begin{itemize}
-	\item Model: E32-TTL-100 RF
-	\item Điện áp hoạt đông: 2.3 - 5.5 VDC
-	\item Điện áp giao tiếp: TTL-3.3V
-	\item Giao tiếp UART Data bits 8, Stop bits 1, Parity none, tốc độ từ 1200 - 115200.
-	\item Tần số: 410 - 441Mhz
-	\item Công suất: 20dbm (100mW)
-	\item Khoảng cách truyền tối đa trong điều kiện lý tưởng: 3000m
-	\item Tốc độ truyền: 0.3 - 19.2 Kbps ( mặc định 2.4 Kbps)
-	\item 512bytes bộ đệm
-	\item Hỗ trợ 65536 địa chỉ cấu hình.
-	\item Kích thước: 21x36mm.
-\end{itemize}
-\begin{figure}[H]
-	\centering
-	\includegraphics[scale=.5]{Chapter 2/image chapter 2/workmodeE32.png}
-	\caption[Chế độ làm việc của module LoRa E32]{Chế độ làm việc của module LoRa E32}
-	\label{hinh24}
-\end{figure}
+\indent Mạch thu phát RF UART Lora SX1278 433Mhz 3000m được tích hợp phần chuyển đổi giao tiếp SPI của SX1278 sang UART giúp việc giao tiếp và sử dụng rất dễ dàng, chỉ cần kết nối với Software của hãng để cấu hình địa chỉ , tốc độ và công suất truyền là có thể sử dụng.\\
 \subsection{GIAO THỨC MQTT}
 \subsubsection{Khái niệm}
 MQTT (\textbf{Message Queuing Telemetry Transport}) là giao thức truyền thông điệp (message) theo mô hình publish/subscribe (cung cấp /thuê bao), được sử dụng cho các thiết bị IoT với băng thông thấp, độ tin cậy cao và khả năng được sử dụng trong mạng lưới không ổn định. Nó dựa trên một Broker (tạm dịch là “Máy chủ môi giới”) “nhẹ” (khá ít xử lý) và được thiết kế có tính mở (tức là không đặc trưng cho ứng dụng cụ thể nào), đơn giản và dễ cài đặt.\\

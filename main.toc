@@ -1,36 +1,36 @@
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {\hfil } LỜI CẢM ƠN}{i}{}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } DANH MỤC KÝ HIỆU VÀ CHỮ VIẾT TẮT}{ii}{}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } DANH MỤC HÌNH VẼ}{iii}{}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } DANH MỤC BẢNG BIỂU}{iv}{}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 1: GIỚI THIỆU}{1}{}%
-\contentsline {subsection}{\numberline {1.1}TỔNG QUAN}{1}{}%
-\contentsline {subsubsection}{\numberline {1.1.1}Đặt vấn đề}{1}{}%
-\contentsline {subsubsection}{\numberline {1.1.2}Tình hình nghiên cứu trong nước}{2}{}%
-\contentsline {subsubsection}{\numberline {1.1.3}Tình hình nghiên cứu ngoài nước}{2}{}%
-\contentsline {subsection}{\numberline {1.2}NHIỆM VỤ THỰC TẬP}{2}{}%
-\contentsline {subsubsection}{\numberline {1.2.1}Mục tiêu đề tài}{2}{}%
-\contentsline {subsubsection}{\numberline {1.2.2}Yêu cầu đề tài}{2}{}%
-\contentsline {subsubsection}{\numberline {1.2.3}Kế hoạch thực hiện}{3}{}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 2: LÝ THUYẾT}{4}{}%
-\contentsline {subsection}{\numberline {2.1}CÔNG NGHỆ LORA}{4}{}%
-\contentsline {subsubsection}{\numberline {2.1.1}Khái niệm}{4}{}%
-\contentsline {subsubsection}{\numberline {2.1.2}Nguyên lý hoạt động}{4}{}%
-\contentsline {subsubsection}{\numberline {2.1.3}Module thu phát RF UART E32-TTL-100}{5}{}%
-\contentsline {subsection}{\numberline {2.2}GIAO THỨC MQTT}{6}{}%
-\contentsline {subsubsection}{\numberline {2.2.1}Khái niệm}{6}{}%
-\contentsline {subsubsection}{\numberline {2.2.2}Cơ chế hoạt động của MQTT theo mô hình Pub/Sub}{7}{}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 3: MCU VÀ PHẦN CỨNG ĐƯỢC SỬ DỤNG TRONG THỰC TẬP}{9}{}%
-\contentsline {subsection}{\numberline {3.1}ARDUINO NANO}{9}{}%
-\contentsline {subsection}{\numberline {3.2}RASPBERRY PI 3}{9}{}%
-\contentsline {subsection}{\numberline {3.3}MODULE RF UART E32-TTL-100}{9}{}%
-\contentsline {subsection}{\numberline {3.4}DHT22 TEMPERATURE AND HUMIDITY SENSOR}{9}{}%
-\contentsline {subsection}{\numberline {3.5}MODULE 2 RELAY OPTO 5VDC}{9}{}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 4: KẾT QUẢ THỰC HIỆN}{10}{}%
-\contentsline {subsection}{\numberline {4.1}KẾT QUẢ THI CÔNG PHẦN CỨNG}{10}{}%
-\contentsline {subsection}{\numberline {4.2}KIỂM TRA ĐỘ CHÍNH XÁC THÔNG SỐ NHIỆT ĐỘ \& ĐỘ ẨM}{10}{}%
-\contentsline {subsection}{\numberline {4.3}KIỂM TRA HOẠT ĐỘNG CỦA MODULE 2 RELAY}{10}{}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 5: KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN}{11}{}%
-\contentsline {subsection}{\numberline {5.1}KẾT LUẬN}{11}{}%
-\contentsline {subsection}{\numberline {5.2}HƯỚNG PHÁT TRIỂN}{11}{}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } TÀI LIỆU THAM KHẢO}{12}{}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } LỜI CẢM ƠN}{i}{table.caption.2}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } DANH MỤC KÝ HIỆU VÀ CHỮ VIẾT TẮT}{ii}{table.caption.2}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } DANH MỤC HÌNH VẼ}{iii}{table.caption.2}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } DANH MỤC BẢNG BIỂU}{iv}{table.caption.2}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 1: GIỚI THIỆU}{1}{table.caption.2}%
+\contentsline {subsection}{\numberline {1.1}TỔNG QUAN}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Đặt vấn đề}{1}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Tình hình nghiên cứu trong nước}{2}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Tình hình nghiên cứu ngoài nước}{2}{subsubsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.2}NHIỆM VỤ THỰC TẬP}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Mục tiêu đề tài}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Yêu cầu đề tài}{2}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Kế hoạch thực hiện}{3}{subsubsection.1.2.3}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 2: LÝ THUYẾT}{4}{figure.caption.3}%
+\contentsline {subsection}{\numberline {2.1}CÔNG NGHỆ LORA}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Khái niệm}{4}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Nguyên lý hoạt động}{4}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Module thu phát RF UART E32-TTL-100}{5}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}GIAO THỨC MQTT}{5}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Khái niệm}{5}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Cơ chế hoạt động của MQTT theo mô hình Pub/Sub}{6}{subsubsection.2.2.2}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 3: MCU VÀ PHẦN CỨNG ĐƯỢC SỬ DỤNG TRONG THỰC TẬP}{8}{figure.caption.8}%
+\contentsline {subsection}{\numberline {3.1}ARDUINO NANO CH340}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}RASPBERRY PI 3 MODEL B+}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}MODULE RF UART E32-TTL-100}{11}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}DHT22 TEMPERATURE AND HUMIDITY SENSOR}{12}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}MODULE 2 RELAY OPTO 5VDC}{13}{subsection.3.5}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 4: KẾT QUẢ THỰC HIỆN}{14}{figure.caption.17}%
+\contentsline {subsection}{\numberline {4.1}KẾT QUẢ THI CÔNG PHẦN CỨNG}{14}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}KIỂM TRA ĐỘ CHÍNH XÁC THÔNG SỐ NHIỆT ĐỘ \& ĐỘ ẨM}{14}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}KIỂM TRA HOẠT ĐỘNG CỦA MODULE 2 RELAY}{14}{subsection.4.3}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 5: KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN}{15}{subsection.4.3}%
+\contentsline {subsection}{\numberline {5.1}KẾT LUẬN}{15}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}HƯỚNG PHÁT TRIỂN}{15}{subsection.5.2}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } TÀI LIỆU THAM KHẢO}{16}{subsection.5.2}%
