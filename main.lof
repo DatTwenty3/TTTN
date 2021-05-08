@@ -1,15 +1,17 @@
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Kế hoạch thực hiện}}{3}{figure.caption.3}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Ảnh minh hoạ tầm xa LoRa}}{4}{figure.caption.4}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Module RF UART E32-TTL-100}}{5}{figure.caption.5}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Lịch sử hình thành MQTT}}{6}{figure.caption.6}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Cơ chế tổng quan MQTT}}{6}{figure.caption.7}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Kiến trúc thành phần MQTT}}{7}{figure.caption.8}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Arduino nano CH340}}{8}{figure.caption.9}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Sơ đồ chân của Arduino nano CH340}}{8}{figure.caption.10}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Raspberry Pi 3 Model B+ }}{9}{figure.caption.11}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Sơ đồ các chân GPIO của Raspberry Pi 3 Model B+}}{10}{figure.caption.12}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Module RF UART E32-TTL-100}}{11}{figure.caption.13}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Sơ đồ chân và chức năng của module LoRa E32}}{11}{figure.caption.14}%
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Chế độ làm việc của module LoRa E32}}{12}{figure.caption.15}%
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Module DHT22}}{12}{figure.caption.16}%
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Module 2 relay opto 5VDC}}{13}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Ảnh minh hoạ tầm xa LoRa}}{4}{figure.caption.4}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Module RF UART E32-TTL-100}}{5}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Lịch sử hình thành MQTT}}{6}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Cơ chế tổng quan MQTT}}{6}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Kiến trúc thành phần MQTT}}{7}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Arduino nano CH340}}{8}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Sơ đồ chân của Arduino nano CH340}}{8}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Raspberry Pi 3 Model B+ }}{9}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Sơ đồ các chân GPIO của Raspberry Pi 3 Model B+}}{10}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Module RF UART E32-TTL-100}}{11}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Sơ đồ chân và chức năng của module LoRa E32}}{11}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Chế độ làm việc của module LoRa E32}}{12}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Module DHT22}}{12}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Module 2 relay opto 5VDC}}{13}{figure.caption.17}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Sơ đồ các giao tiếp phần cứng}}{14}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Phần cứng end-Node trong thực tế}}{14}{figure.caption.19}%
