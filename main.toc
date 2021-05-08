@@ -28,9 +28,9 @@
 \contentsline {subsection}{\numberline {3.5}MODULE 2 RELAY OPTO 5VDC}{13}{subsection.3.5}%
 \contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 4: KẾT QUẢ THỰC HIỆN}{14}{figure.caption.17}%
 \contentsline {subsection}{\numberline {4.1}KẾT QUẢ THI CÔNG PHẦN CỨNG}{14}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}KIỂM TRA ĐỘ CHÍNH XÁC THÔNG SỐ NHIỆT ĐỘ \& ĐỘ ẨM}{14}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}KIỂM TRA HOẠT ĐỘNG CỦA MODULE 2 RELAY}{14}{subsection.4.3}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 5: KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN}{15}{subsection.4.3}%
-\contentsline {subsection}{\numberline {5.1}KẾT LUẬN}{15}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}HƯỚNG PHÁT TRIỂN}{15}{subsection.5.2}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } TÀI LIỆU THAM KHẢO}{16}{subsection.5.2}%
+\contentsline {subsection}{\numberline {4.2}KIỂM TRA CÁC THÔNG SỐ NHIỆT ĐỘ \& ĐỘ ẨM}{15}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}KIỂM TRA HOẠT ĐỘNG CỦA MODULE 2 RELAY}{15}{subsection.4.3}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 5: KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN}{19}{figure.caption.27}%
+\contentsline {subsection}{\numberline {5.1}KẾT LUẬN}{19}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}HƯỚNG PHÁT TRIỂN}{19}{subsection.5.2}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } TÀI LIỆU THAM KHẢO}{20}{subsection.5.2}%
