@@ -2,24 +2,25 @@
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Ảnh minh hoạ tầm xa LoRa}}{4}{figure.caption.4}%
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Module RF UART E32-TTL-100}}{5}{figure.caption.5}%
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Lịch sử hình thành MQTT}}{6}{figure.caption.6}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Cơ chế tổng quan MQTT}}{6}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Cơ chế tổng quan MQTT}}{7}{figure.caption.7}%
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Kiến trúc thành phần MQTT}}{7}{figure.caption.8}%
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Arduino nano CH340}}{8}{figure.caption.9}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Sơ đồ chân của Arduino nano CH340}}{8}{figure.caption.10}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Raspberry Pi 3 Model B+ }}{9}{figure.caption.11}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Sơ đồ các chân GPIO của Raspberry Pi 3 Model B+}}{10}{figure.caption.12}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Module RF UART E32-TTL-100}}{11}{figure.caption.13}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Sơ đồ chân và chức năng của module LoRa E32}}{11}{figure.caption.14}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Chế độ làm việc của module LoRa E32}}{12}{figure.caption.15}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Module DHT22}}{12}{figure.caption.16}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Module 2 relay opto 5VDC}}{13}{figure.caption.17}%
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Sơ đồ các giao tiếp phần cứng}}{14}{figure.caption.18}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Phần cứng end-Node trong thực tế}}{14}{figure.caption.19}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Các thông số của môi trường được hiển thị trên app}}{15}{figure.caption.20}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Các thông số của môi trường được hiển thị trên Gateway}}{15}{figure.caption.21}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Phần cứng trong trạng thái bật relay 1 tắt relay 2}}{15}{figure.caption.22}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Trang thái của end-Node được hiển thị trên app}}{16}{figure.caption.23}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Trang thái của end-Node được hiển thị trên Gateway}}{16}{figure.caption.24}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Phần cứng trong trạng thái bật relay 2 tắt relay 1}}{17}{figure.caption.25}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Trang thái của end-Node được hiển thị trên app}}{17}{figure.caption.26}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Trang thái của end-Node được hiển thị trên Gateway}}{18}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Arduino nano CH340}}{9}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Sơ đồ chân của Arduino nano CH340}}{9}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Raspberry Pi 3 Model B+ }}{10}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Sơ đồ các chân GPIO của Raspberry Pi 3 Model B+}}{11}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Module RF UART E32-TTL-100}}{12}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Sơ đồ chân và chức năng của module LoRa E32}}{12}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Chế độ làm việc của module LoRa E32}}{13}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Phần mềm cấu hình module LoRa E32}}{13}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Module DHT22}}{14}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Module 2 relay opto 5VDC}}{15}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Sơ đồ các giao tiếp phần cứng}}{16}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Phần cứng end-Node trong thực tế}}{16}{figure.caption.20}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Các thông số của môi trường được hiển thị trên app}}{17}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Các thông số của môi trường được hiển thị trên Gateway}}{17}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Phần cứng trong trạng thái bật relay 1 tắt relay 2}}{17}{figure.caption.23}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Trang thái của end-Node được hiển thị trên app}}{18}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Trang thái của end-Node được hiển thị trên Gateway}}{18}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Phần cứng trong trạng thái bật relay 2 tắt relay 1}}{19}{figure.caption.26}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Trang thái của end-Node được hiển thị trên app}}{19}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Trang thái của end-Node được hiển thị trên Gateway}}{20}{figure.caption.28}%

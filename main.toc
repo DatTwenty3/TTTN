@@ -17,20 +17,20 @@
 \contentsline {subsubsection}{\numberline {2.1.1}Khái niệm}{4}{subsubsection.2.1.1}%
 \contentsline {subsubsection}{\numberline {2.1.2}Nguyên lý hoạt động}{4}{subsubsection.2.1.2}%
 \contentsline {subsubsection}{\numberline {2.1.3}Module thu phát RF UART E32-TTL-100}{5}{subsubsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.2}GIAO THỨC MQTT}{5}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Khái niệm}{5}{subsubsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2}GIAO THỨC MQTT}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Khái niệm}{6}{subsubsection.2.2.1}%
 \contentsline {subsubsection}{\numberline {2.2.2}Cơ chế hoạt động của MQTT theo mô hình Pub/Sub}{6}{subsubsection.2.2.2}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 3: MCU VÀ PHẦN CỨNG ĐƯỢC SỬ DỤNG TRONG THỰC TẬP}{8}{figure.caption.8}%
-\contentsline {subsection}{\numberline {3.1}ARDUINO NANO CH340}{8}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}RASPBERRY PI 3 MODEL B+}{9}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}MODULE RF UART E32-TTL-100}{11}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}DHT22 TEMPERATURE AND HUMIDITY SENSOR}{12}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}MODULE 2 RELAY OPTO 5VDC}{13}{subsection.3.5}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 4: KẾT QUẢ THỰC HIỆN}{14}{figure.caption.17}%
-\contentsline {subsection}{\numberline {4.1}KẾT QUẢ THI CÔNG PHẦN CỨNG}{14}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}KIỂM TRA CÁC THÔNG SỐ NHIỆT ĐỘ \& ĐỘ ẨM}{15}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}KIỂM TRA HOẠT ĐỘNG CỦA MODULE 2 RELAY}{15}{subsection.4.3}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 5: KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN}{19}{figure.caption.27}%
-\contentsline {subsection}{\numberline {5.1}KẾT LUẬN}{19}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}HƯỚNG PHÁT TRIỂN}{19}{subsection.5.2}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } TÀI LIỆU THAM KHẢO}{20}{subsection.5.2}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 3: MCU VÀ PHẦN CỨNG ĐƯỢC SỬ DỤNG TRONG THỰC TẬP}{9}{figure.caption.8}%
+\contentsline {subsection}{\numberline {3.1}ARDUINO NANO CH340}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}RASPBERRY PI 3 MODEL B+}{10}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}MODULE RF UART E32-TTL-100}{12}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}DHT22 TEMPERATURE AND HUMIDITY SENSOR}{14}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}MODULE 2 RELAY OPTO 5VDC}{15}{subsection.3.5}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 4: KẾT QUẢ THỰC HIỆN}{16}{figure.caption.18}%
+\contentsline {subsection}{\numberline {4.1}KẾT QUẢ THI CÔNG PHẦN CỨNG}{16}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}KIỂM TRA CÁC THÔNG SỐ NHIỆT ĐỘ \& ĐỘ ẨM}{17}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}KIỂM TRA HOẠT ĐỘNG CỦA MODULE 2 RELAY}{17}{subsection.4.3}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 5: KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN}{21}{figure.caption.28}%
+\contentsline {subsection}{\numberline {5.1}KẾT LUẬN}{21}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}HƯỚNG PHÁT TRIỂN}{21}{subsection.5.2}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } TÀI LIỆU THAM KHẢO}{22}{subsection.5.2}%

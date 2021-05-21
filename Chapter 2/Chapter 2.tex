@@ -25,7 +25,21 @@ LoRa sử dụng kỹ thuật điều chế gọi là Chirp Spread Spectrum. Có
 	\item 915MHz cho USA
 \end{itemize}
 
-\indent Nhờ sử dụng chirp signal mà các tín hiệu LoRa với các chirp rate khác nhau có thể hoạt động trong cùng 1 khu vực mà không gây nhiễu cho nhau. Điều này cho phép nhiều thiết bị LoRa có thể trao đổi dữ liệu trên nhiều kênh đồng thời (mỗi kênh cho 1 chirprate)
+\indent Nhờ sử dụng chirp signal mà các tín hiệu LoRa với các chirp rate khác nhau có thể hoạt động trong cùng 1 khu vực mà không gây nhiễu cho nhau. Điều này cho phép nhiều thiết bị LoRa có thể trao đổi dữ liệu trên nhiều kênh đồng thời (mỗi kênh cho 1 chirprate). Công nghệ điều chế trải phổ trải phổ Chirp (Chirp Spread Spectrum) với sự biến đổi tuyến tính của tần số theo thời gian để mã hóa thông tin. Bởi vì sự tuyến tính của xung trải phổ, độ lêch tần số giữa cácthiết bị thu và phát tương ứng với độ lệch thời gian, dễ dàng bị loại bỏ trong giảimã. Điều này giúp cho giảm ảnh hưởng của hiệu ứng Doppler. Độ lệch tần số giữathu và phát có thể đạt đến 20\% băng thông mà không ảnh hưởng hiệu suất mã hóa.Máy thu LoRa có thể cung cấp độ nhạy lên tới -148dBm. Một số tính năng chính:
+\begin{itemize}
+	\item Khả năng chống lại nhiễu cố ý và không cố ý - đặc điểm quan trọng đối với thông tin trong các vùng đông đúc như thành phố.
+	\item Có khả năng loại bỏ hoặc giảm nhẹ ảnh hưởng của truyền lan đa đường (multi path fading).
+	\item Có khả năng chống lại hiệu ứng Doppler (độ lệch tần số giữa thu và phát có thể đạt tới 20\% băng thông).
+	\item Có thể chia sẻ cùng băng tần với các người dùng khác, nhờ tính chất tín hiệu giống như tạp âm của nó.
+	\item Cho mức độ riêng tư nhất định nhờ tính chất của điều chế trải phổ, người ngoài khó có thể đánh cắp được dữ liệu vì không nắm được sự thay đổi về tần số của tín hiệu.
+\end{itemize}
+
+\indent Một vài thông số cho việc tùy biến trong điều chế LoRa:
+\begin{itemize}
+	\item \textbf{Hệ số trải phổ (SF):} SF có giá trị trong khoảng từ 6 đến 12. SF = 6 là mode cho tốc độ truyền bit cao nhất. Trong khi đó hệ số trải phổ càng tăng dẫn đến độ nhạy máy thu càng tăng.
+	\item \textbf{Tỉ lệ mã hóa (CR):} Modem LoRa sử dụng Cyclic Error Coding để phát hiện và sửa lỗi. Error Coding thực hiện khi truyền tải trong không khí.
+	\item \textbf{Băng thông (BW):} Tăng băng thông dẫn tới tăng tốc độ dữ liệu, dẫn tới giảm thời gian truyền dẫn, giảm độ nhạy.
+\end{itemize}
 \subsubsection{Module thu phát RF UART E32-TTL-100}
 \begin{figure}[H]
 	\centering

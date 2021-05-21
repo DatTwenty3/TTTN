@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  8 MAY 2021 16:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  21 MAY 2021 14:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1007,7 +1007,7 @@ e/bachkhoa.png>] (./main.tocpdfTeX warning (ext4): destination with the same id
 entifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.32 ... CỦA MODULE 2 RELAY}{15}{subsection.4.3}
+l.32 ... CỦA MODULE 2 RELAY}{17}{subsection.4.3}
                                                   % [1
 
 ])
@@ -1065,7 +1065,7 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
 (d:/Software/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-<Chapter 1/image chapter 1/kehoachthuchien.png, id=263, 216.81pt x 563.10374pt>
+<Chapter 1/image chapter 1/kehoachthuchien.png, id=265, 216.81pt x 563.10374pt>
 
 File: Chapter 1/image chapter 1/kehoachthuchien.png Graphic file (type png)
 <use Chapter 1/image chapter 1/kehoachthuchien.png>
@@ -1082,7 +1082,7 @@ thuchien.png>]
 \openout2 = `"Chapter 2/Chapter 2.aux"'.
 
  (./Chapter 2/Chapter 2.tex
-<Chapter 2/image chapter 2/tamxaLoRa.png, id=273, 602.25pt x 301.125pt>
+<Chapter 2/image chapter 2/tamxaLoRa.png, id=275, 602.25pt x 301.125pt>
 File: Chapter 2/image chapter 2/tamxaLoRa.png Graphic file (type png)
 <use Chapter 2/image chapter 2/tamxaLoRa.png>
 Package pdftex.def Info: Chapter 2/image chapter 2/tamxaLoRa.png  used on input
@@ -1093,51 +1093,51 @@ Package pdftex.def Info: Chapter 2/image chapter 2/tamxaLoRa.png  used on input
 
 
  <./Chapter 2/image chapter 2/tamxaLoRa.png>]
-<Chapter 2/image chapter 2/E32.jpg, id=279, 752.8125pt x 417.56pt>
+<Chapter 2/image chapter 2/E32.jpg, id=281, 752.8125pt x 417.56pt>
 File: Chapter 2/image chapter 2/E32.jpg Graphic file (type jpg)
 <use Chapter 2/image chapter 2/E32.jpg>
 Package pdftex.def Info: Chapter 2/image chapter 2/E32.jpg  used on input line 
-32.
+46.
 (pdftex.def)             Requested size: 301.11966pt x 167.02103pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
 
  []
 
 [5 <./Chapter 2/image chapter 2/E32.jpg>]
-<Chapter 2/image chapter 2/lichsuMQTT.png, id=284, 411.5375pt x 134.5025pt>
+<Chapter 2/image chapter 2/lichsuMQTT.png, id=286, 411.5375pt x 134.5025pt>
 File: Chapter 2/image chapter 2/lichsuMQTT.png Graphic file (type png)
 <use Chapter 2/image chapter 2/lichsuMQTT.png>
 Package pdftex.def Info: Chapter 2/image chapter 2/lichsuMQTT.png  used on inpu
-t line 57.
+t line 71.
 (pdftex.def)             Requested size: 288.07428pt x 94.1511pt.
-<Chapter 2/image chapter 2/cochetongquanMQTT.png, id=285, 414.54875pt x 146.547
+ [6 <./Chapter 2/image chapter 2/lichsuMQTT.png (PNG copy)>]
+<Chapter 2/image chapter 2/cochetongquanMQTT.png, id=292, 414.54875pt x 146.547
 5pt>
 File: Chapter 2/image chapter 2/cochetongquanMQTT.png Graphic file (type png)
 <use Chapter 2/image chapter 2/cochetongquanMQTT.png>
 Package pdftex.def Info: Chapter 2/image chapter 2/cochetongquanMQTT.png  used 
-on input line 78.
+on input line 92.
 (pdftex.def)             Requested size: 290.18214pt x 102.58253pt.
-<Chapter 2/image chapter 2/kientrucMQTT.png, id=286, 437.635pt x 268.00125pt>
+<Chapter 2/image chapter 2/kientrucMQTT.png, id=293, 437.635pt x 268.00125pt>
 File: Chapter 2/image chapter 2/kientrucMQTT.png Graphic file (type png)
 <use Chapter 2/image chapter 2/kientrucMQTT.png>
 Package pdftex.def Info: Chapter 2/image chapter 2/kientrucMQTT.png  used on in
-put line 87.
+put line 101.
 (pdftex.def)             Requested size: 306.3424pt x 187.59958pt.
- [6 <./Chapter 2/image chapter 2/lichsuMQTT.png (PNG copy)> <./Chapter 2/image 
-chapter 2/cochetongquanMQTT.png (PNG copy)>]) [7 <./Chapter 2/image chapter 2/k
-ientrucMQTT.png (PNG copy)>]
+ [7 <./Chapter 2/image chapter 2/cochetongquanMQTT.png (PNG copy)> <./Chapter 2
+/image chapter 2/kientrucMQTT.png (PNG copy)>]) [8]
 \openout2 = `"Chapter 3/Chapter 3.aux"'.
 
 
 (./Chapter 3/Chapter 3.tex
-<Chapter 3/image chapter 3/nano.jpg, id=297, 1927.2pt x 1084.05pt>
+<Chapter 3/image chapter 3/nano.jpg, id=303, 1927.2pt x 1084.05pt>
 File: Chapter 3/image chapter 3/nano.jpg Graphic file (type jpg)
 <use Chapter 3/image chapter 3/nano.jpg>
 Package pdftex.def Info: Chapter 3/image chapter 3/nano.jpg  used on input line
  9.
 (pdftex.def)             Requested size: 289.06754pt x 162.60048pt.
-<Chapter 3/image chapter 3/sodoNano.png, id=298, 449.05266pt x 219.44484pt>
+<Chapter 3/image chapter 3/sodoNano.png, id=304, 449.05266pt x 219.44484pt>
 File: Chapter 3/image chapter 3/sodoNano.png Graphic file (type png)
 <use Chapter 3/image chapter 3/sodoNano.png>
 Package pdftex.def Info: Chapter 3/image chapter 3/sodoNano.png  used on input 
@@ -1153,20 +1153,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
-[8
+[9
 
 
 
  <./Chapter 3/image chapter 3/nano.jpg> <./Chapter 3/image chapter 3/sodoNano.p
 ng>]
-<Chapter 3/image chapter 3/rasp3.jpg, id=304, 752.8125pt x 504.38437pt>
+<Chapter 3/image chapter 3/rasp3.jpg, id=310, 752.8125pt x 504.38437pt>
 File: Chapter 3/image chapter 3/rasp3.jpg Graphic file (type jpg)
 <use Chapter 3/image chapter 3/rasp3.jpg>
 Package pdftex.def Info: Chapter 3/image chapter 3/rasp3.jpg  used on input lin
 e 42.
 (pdftex.def)             Requested size: 376.40532pt x 252.19156pt.
- [9 <./Chapter 3/image chapter 3/rasp3.jpg>]
-<Chapter 3/image chapter 3/raspGPIO.jpg, id=309, 602.25pt x 492.84125pt>
+ [10 <./Chapter 3/image chapter 3/rasp3.jpg>]
+<Chapter 3/image chapter 3/raspGPIO.jpg, id=315, 602.25pt x 492.84125pt>
 File: Chapter 3/image chapter 3/raspGPIO.jpg Graphic file (type jpg)
 <use Chapter 3/image chapter 3/raspGPIO.jpg>
 Package pdftex.def Info: Chapter 3/image chapter 3/raspGPIO.jpg  used on input 
@@ -1177,7 +1177,7 @@ File: Chapter 2/image chapter 2/E32.jpg Graphic file (type jpg)
 Package pdftex.def Info: Chapter 2/image chapter 2/E32.jpg  used on input line 
 75.
 (pdftex.def)             Requested size: 301.11966pt x 167.02103pt.
-<Chapter 2/image chapter 2/sodochanvachucnangE32.png, id=310, 840.13875pt x 229
+<Chapter 2/image chapter 2/sodochanvachucnangE32.png, id=316, 840.13875pt x 229
 .60782pt>
 File: Chapter 2/image chapter 2/sodochanvachucnangE32.png Graphic file (type pn
 g)
@@ -1185,124 +1185,130 @@ g)
 Package pdftex.def Info: Chapter 2/image chapter 2/sodochanvachucnangE32.png  u
 sed on input line 81.
 (pdftex.def)             Requested size: 420.06834pt x 114.80362pt.
- [10 <./Chapter 3/image chapter 3/raspGPIO.jpg>] [11 <./Chapter 2/image chapter
+ [11 <./Chapter 3/image chapter 3/raspGPIO.jpg>] [12 <./Chapter 2/image chapter
  2/sodochanvachucnangE32.PNG>]
-<Chapter 2/image chapter 2/workmodeE32.png, id=320, 626.34pt x 372.64218pt>
+<Chapter 2/image chapter 2/workmodeE32.png, id=327, 626.34pt x 372.64218pt>
 File: Chapter 2/image chapter 2/workmodeE32.png Graphic file (type png)
 <use Chapter 2/image chapter 2/workmodeE32.png>
 Package pdftex.def Info: Chapter 2/image chapter 2/workmodeE32.png  used on inp
 ut line 103.
 (pdftex.def)             Requested size: 313.16922pt x 186.32063pt.
-<Chapter 3/image chapter 3/DHT22.jpg, id=321, 591.20876pt x 504.88625pt>
+<Chapter 2/image chapter 2/configLoRa.png, id=328, 535.2497pt x 251.43938pt>
+File: Chapter 2/image chapter 2/configLoRa.png Graphic file (type png)
+<use Chapter 2/image chapter 2/configLoRa.png>
+Package pdftex.def Info: Chapter 2/image chapter 2/configLoRa.png  used on inpu
+t line 116.
+(pdftex.def)             Requested size: 267.62419pt x 125.71938pt.
+<Chapter 3/image chapter 3/DHT22.jpg, id=329, 591.20876pt x 504.88625pt>
 File: Chapter 3/image chapter 3/DHT22.jpg Graphic file (type jpg)
 <use Chapter 3/image chapter 3/DHT22.jpg>
 Package pdftex.def Info: Chapter 3/image chapter 3/DHT22.jpg  used on input lin
-e 110.
+e 124.
 (pdftex.def)             Requested size: 295.60365pt x 252.44249pt.
- [12 <./Chapter 2/image chapter 2/workmodeE32.PNG> <./Chapter 3/image chapter 3
-/DHT22.jpg>]
-<Chapter 3/image chapter 3/2relay.jpg, id=328, 2007.5pt x 2007.5pt>
+ [13 <./Chapter 2/image chapter 2/workmodeE32.PNG> <./Chapter 2/image chapter 2
+/configLoRa.PNG>]
+<Chapter 3/image chapter 3/2relay.jpg, id=336, 2007.5pt x 2007.5pt>
 File: Chapter 3/image chapter 3/2relay.jpg Graphic file (type jpg)
 <use Chapter 3/image chapter 3/2relay.jpg>
 Package pdftex.def Info: Chapter 3/image chapter 3/2relay.jpg  used on input li
-ne 128.
+ne 142.
 (pdftex.def)             Requested size: 200.76175pt x 200.76175pt.
-) [13 <./Chapter 3/image chapter 3/2relay.jpg>]
+ [14 <./Chapter 3/image chapter 3/DHT22.jpg>]) [15 <./Chapter 3/image chapter 3
+/2relay.jpg>]
 \openout2 = `"Chapter 4/Chapter 4.aux"'.
 
-
-(./Chapter 4/Chapter 4.tex
-<Chapter 4/image chapter 4/figure.png, id=333, 1827.82875pt x 364.36125pt>
+ (./Chapter 4/Chapter 4.tex
+<Chapter 4/image chapter 4/figure.png, id=345, 1827.82875pt x 364.36125pt>
 File: Chapter 4/image chapter 4/figure.png Graphic file (type png)
 <use Chapter 4/image chapter 4/figure.png>
 Package pdftex.def Info: Chapter 4/image chapter 4/figure.png  used on input li
 ne 9.
 (pdftex.def)             Requested size: 365.55928pt x 72.87096pt.
-<Chapter 4/image chapter 4/phancung.jpg, id=334, 2055.68pt x 1541.76pt>
+<Chapter 4/image chapter 4/phancung.jpg, id=346, 2055.68pt x 1541.76pt>
 File: Chapter 4/image chapter 4/phancung.jpg Graphic file (type jpg)
 <use Chapter 4/image chapter 4/phancung.jpg>
 Package pdftex.def Info: Chapter 4/image chapter 4/phancung.jpg  used on input 
 line 15.
 (pdftex.def)             Requested size: 411.12872pt x 308.34654pt.
-<Chapter 4/image chapter 4/appMT.png, id=335, 694.09312pt x 368.1253pt>
+<Chapter 4/image chapter 4/appMT.png, id=347, 694.09312pt x 368.1253pt>
 File: Chapter 4/image chapter 4/appMT.png Graphic file (type png)
 <use Chapter 4/image chapter 4/appMT.png>
 Package pdftex.def Info: Chapter 4/image chapter 4/appMT.png  used on input lin
 e 22.
 (pdftex.def)             Requested size: 277.63232pt x 147.24751pt.
-<Chapter 4/image chapter 4/gwMT.png, id=336, 1028.34187pt x 261.22594pt>
+<Chapter 4/image chapter 4/gwMT.png, id=348, 1028.34187pt x 261.22594pt>
 File: Chapter 4/image chapter 4/gwMT.png Graphic file (type png)
 <use Chapter 4/image chapter 4/gwMT.png>
 Package pdftex.def Info: Chapter 4/image chapter 4/gwMT.png  used on input line
  28.
 (pdftex.def)             Requested size: 411.32947pt x 104.48851pt.
- [14
+ [16
 
 
 
  <./Chapter 4/image chapter 4/figure.png> <./Chapter 4/image chapter 4/phancung
 .jpg>]
-<Chapter 4/image chapter 4/R1ONR2OFF.jpg, id=342, 1445.4pt x 1084.05pt>
+<Chapter 4/image chapter 4/R1ONR2OFF.jpg, id=354, 1445.4pt x 1084.05pt>
 File: Chapter 4/image chapter 4/R1ONR2OFF.jpg Graphic file (type jpg)
 <use Chapter 4/image chapter 4/R1ONR2OFF.jpg>
 Package pdftex.def Info: Chapter 4/image chapter 4/R1ONR2OFF.jpg  used on input
  line 35.
 (pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
-<Chapter 4/image chapter 4/appR1ONR2OFF.png, id=343, 694.09312pt x 1541.76pt>
+<Chapter 4/image chapter 4/appR1ONR2OFF.png, id=355, 694.09312pt x 1541.76pt>
 File: Chapter 4/image chapter 4/appR1ONR2OFF.png Graphic file (type png)
 <use Chapter 4/image chapter 4/appR1ONR2OFF.png>
 Package pdftex.def Info: Chapter 4/image chapter 4/appR1ONR2OFF.png  used on in
 put line 41.
 (pdftex.def)             Requested size: 138.81616pt x 308.34654pt.
-<Chapter 4/image chapter 4/Relay1ON-Relay2OFF.png, id=344, 1028.34187pt x 578.1
+<Chapter 4/image chapter 4/Relay1ON-Relay2OFF.png, id=356, 1028.34187pt x 578.1
 6pt>
 File: Chapter 4/image chapter 4/Relay1ON-Relay2OFF.png Graphic file (type png)
 <use Chapter 4/image chapter 4/Relay1ON-Relay2OFF.png>
 Package pdftex.def Info: Chapter 4/image chapter 4/Relay1ON-Relay2OFF.png  used
  on input line 47.
 (pdftex.def)             Requested size: 308.50494pt x 173.44933pt.
- [15 <./Chapter 4/image chapter 4/appMT.png> <./Chapter 4/image chapter 4/gwMT.
+ [17 <./Chapter 4/image chapter 4/appMT.png> <./Chapter 4/image chapter 4/gwMT.
 png> <./Chapter 4/image chapter 4/R1ONR2OFF.jpg>]
-<Chapter 4/image chapter 4/R2ONR1OFF.jpg, id=351, 1445.4pt x 1084.05pt>
+<Chapter 4/image chapter 4/R2ONR1OFF.jpg, id=363, 1445.4pt x 1084.05pt>
 File: Chapter 4/image chapter 4/R2ONR1OFF.jpg Graphic file (type jpg)
 <use Chapter 4/image chapter 4/R2ONR1OFF.jpg>
 Package pdftex.def Info: Chapter 4/image chapter 4/R2ONR1OFF.jpg  used on input
  line 54.
 (pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
-<Chapter 4/image chapter 4/appR1OFFR2ON.png, id=352, 694.09312pt x 1541.76pt>
+<Chapter 4/image chapter 4/appR1OFFR2ON.png, id=364, 694.09312pt x 1541.76pt>
 File: Chapter 4/image chapter 4/appR1OFFR2ON.png Graphic file (type png)
 <use Chapter 4/image chapter 4/appR1OFFR2ON.png>
 Package pdftex.def Info: Chapter 4/image chapter 4/appR1OFFR2ON.png  used on in
 put line 60.
 (pdftex.def)             Requested size: 138.81616pt x 308.34654pt.
- [16 <./Chapter 4/image chapter 4/appR1ONR2OFF.png> <./Chapter 4/image chapter 
+ [18 <./Chapter 4/image chapter 4/appR1ONR2OFF.png> <./Chapter 4/image chapter 
 4/Relay1ON-Relay2OFF.png>]
-<Chapter 4/image chapter 4/Relay1OFF-Relay2ON.png, id=358, 1028.34187pt x 578.1
+<Chapter 4/image chapter 4/Relay1OFF-Relay2ON.png, id=371, 1028.34187pt x 578.1
 6pt>
 File: Chapter 4/image chapter 4/Relay1OFF-Relay2ON.png Graphic file (type png)
 <use Chapter 4/image chapter 4/Relay1OFF-Relay2ON.png>
 Package pdftex.def Info: Chapter 4/image chapter 4/Relay1OFF-Relay2ON.png  used
  on input line 66.
 (pdftex.def)             Requested size: 308.50494pt x 173.44933pt.
-) [17 <./Chapter 4/image chapter 4/R2ONR1OFF.jpg> <./Chapter 4/image chapter 4/
-appR1OFFR2ON.png>] [18 <./Chapter 4/image chapter 4/Relay1OFF-Relay2ON.png>]
+) [19 <./Chapter 4/image chapter 4/R2ONR1OFF.jpg> <./Chapter 4/image chapter 4/
+appR1OFFR2ON.png>] [20 <./Chapter 4/image chapter 4/Relay1OFF-Relay2ON.png>]
 \openout2 = `"Chapter 5/Chapter 5.aux"'.
 
- (./Chapter 5/Chapter 5.tex) [19
+
+(./Chapter 5/Chapter 5.tex) [21
 
 
 
 ]
 \openout2 = `References/References.aux'.
 
-
-(./References/References.tex
+ (./References/References.tex
 LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 5
 .
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/vntex/t5cmtt.fd
 File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)) [20
+)) [22
 
 
 
@@ -1310,20 +1316,17 @@ File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 (./main.aux (./Chapter 1/Chapter 1.aux) (./Chapter 2/Chapter 2.aux)
 (./Chapter 3/Chapter 3.aux) (./Chapter 4/Chapter 4.aux)
 (./Chapter 5/Chapter 5.aux) (./References/References.aux))
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9F9E35219314D948422F06BECF2971E9;7042.
+(rerunfilecheck)             Checksum: 6C75A2BE04925CC1351EE23AA04C6A1E;7042.
  ) 
 Here is how much of TeX's memory you used:
- 22452 strings out of 478994
- 404613 string characters out of 5857680
- 682552 words of memory out of 5000000
- 39379 multiletter control sequences out of 15000+600000
+ 22461 strings out of 478994
+ 404877 string characters out of 5857680
+ 682555 words of memory out of 5000000
+ 39384 multiletter control sequences out of 15000+600000
  447133 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,9n,89p,973b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 87i,9n,89p,1085b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/Software/texlive/2021/texmf-dist/fonts/enc/dvips/vntex/t5.enc}{d:/Softwar
 e/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/Software/texlive/2021
 /texmf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb><d:/Software/texlive/2021/texmf-
@@ -1332,10 +1335,10 @@ onts/type1/urw/times/utmr8a.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type
 1/vntex/urwvn/utmr8v.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex
 /urwvn/utmri8v.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex/vnr/v
 ntt10.pfb>
-Output written on main.pdf (27 pages, 4552045 bytes).
+Output written on main.pdf (29 pages, 4571034 bytes).
 PDF statistics:
- 425 PDF objects out of 1000 (max. 8388607)
- 350 compressed objects within 4 object streams
- 77 named destinations out of 1000 (max. 500000)
- 418 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 438 PDF objects out of 1000 (max. 8388607)
+ 359 compressed objects within 4 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 423 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -104,6 +104,20 @@ Mạch thu phát RF UART Lora SX1278 433Mhz 3000m sử dụng chip SX1278 của 
 	\caption[Chế độ làm việc của module LoRa E32]{Chế độ làm việc của module LoRa E32}
 	\label{hinh37}
 \end{figure}
+
+\indent Các bước cấu hình cho module E32 LoRa:
+\begin{itemize}
+	\item Để tùy chỉnh các thông số thu phát: Kênh, Địa chỉ, Tốc độ, Công suất,… chúng ta cần sử dụng module chuyển đổi USB-UART Lora CP2102 kết nối với máy tính.
+	\item Kết nối với máy tính, tải và cài đặt Driver CP210x.
+	\item Sau đó sử dụng phần mềm Wireless Module Setting để tiến hành tùy chỉnh.
+\end{itemize}
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=.5]{Chapter 2/image chapter 2/configLoRa.png}
+	\caption[Phần mềm cấu hình module LoRa E32]{Phần mềm cấu hình module LoRa E32}
+\end{figure}
+
+\indent \textbf{Lưu ý:} Để các module có thể giao tiếp được với nhau, thì các thông số tùy chỉnh như: kênh truyền, địa chỉ,… cần \textbf{phải giống nhau}.
 \subsection{DHT22 TEMPERATURE AND HUMIDITY SENSOR}
 \begin{figure}[H]
 	\centering
@@ -116,7 +130,7 @@ Cảm biến độ ẩm, nhiệt độ DHT22 Temperature Humidity Sensor ra châ
 \begin{itemize}
 	\item Nguồn sử dụng: 3~5 VDC.
 	\item Dòng sử dụng: 2.5mA max (khi truyền dữ liệu).
-	\item Đo tốt ở độ ẩm 0100%RH với sai số 2-5%.
+	\item Đo tốt ở độ ẩm 0100\% RH với sai số 2-5\%.
 	\item Đo tốt ở nhiệt độ -40 to 80°C sai số ±0.5°C.
 	\item Tần số lấy mẫu tối đa 0.5Hz (2 giây 1 lần)
 	\item Kích thước 27mm x 59mm x 13.5mm (1.05" x 2.32" x 0.53")
