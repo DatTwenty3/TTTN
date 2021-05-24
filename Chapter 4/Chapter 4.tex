@@ -4,12 +4,14 @@
 \setcounter{figure}{0}
 \setcounter{subsection}{0}
 \subsection{KẾT QUẢ THI CÔNG PHẦN CỨNG}
+Mô hình phần cứng của đồ án này bao gồm, Arduino giao tiếp với gateway Raspberry thông qua mạng LoRa để truyền các dữ liệu cảm biến như nhiệt độ, độ ẩm, ... Đồng thời nhận lệnh điều khiển từ gateway để bật tắt 2 relay "Máy bơm nước" và "Đèn". Dưới đây là ảnh minh hoạ cho mô hình truyền/nhận của phần cứng:
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.2]{Chapter 4/image chapter 4/figure.png}
 	\caption[Sơ đồ các giao tiếp phần cứng]{Sơ đồ các giao tiếp phần cứng}
 	\label{hinh41}
 \end{figure}
+\indent Do vẫn còn phát triển thêm: gắn thêm cảm biến, thay thế 1 số linh kiện cho phù hợp, ... Nên em vẫn còn dùng bread board để cắm mạch cho tiện việc nghiên cứu. Trong tương lai, khi tiến hành phát triển lên Luận văn Tốt nghiệp, em sẽ đưa mạch này lên PCB.
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.2]{Chapter 4/image chapter 4/phancung.jpg}
@@ -17,6 +19,14 @@
 	\label{hinh42}
 \end{figure}
 \subsection{KIỂM TRA CÁC THÔNG SỐ NHIỆT ĐỘ \& ĐỘ ẨM}
+Dưới đây là hình ảnh được hiển thị trên App và Gateway cho ta biết các giá trị được Arduino thu về từ cảm biến và truyền lại cho gateway thông qua sóng LoRa.\\
+\indent Với các thông số của môi trường thu về được từ cảm biến như sau:
+\begin{itemize}
+	\item \textbf{\textit{Nhiệt độ: }} 31*C
+	\item \textbf{\textit{Độ ẩm không khí: }} 60\%
+	\item \textbf{\textit{Độ ẩm đất: }} 0\% (do cảm biến độ ẩm đất chưa được cắm vào đất)
+\end{itemize}
+
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.4]{Chapter 4/image chapter 4/appMT.png}
@@ -30,25 +40,28 @@
 	\label{hinh44}
 \end{figure}
 \subsection{KIỂM TRA HOẠT ĐỘNG CỦA MODULE 2 RELAY}
+Ta tiến hành thử nghiệm bằng cách bật relay 1. Dưới đây là hình ảnh phần cứng phản hồi lại lệnh điều khiển bật relay 1 nhận từ Gateway truyền về thông qua LoRa.
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.2]{Chapter 4/image chapter 4/R1ONR2OFF.jpg}
 	\caption[Phần cứng trong trạng thái bật relay 1 tắt relay 2]{Phần cứng trong trạng thái bật relay 1 tắt relay 2}
 	\label{hinh45}
 \end{figure}
+\indent Giao diện trên app đã hiển thị được các thông số của môi trường cũng như trạng thái bật/tắt của 2 thiết bị tại relay 1 và relay 2
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.2]{Chapter 4/image chapter 4/appR1ONR2OFF.png}
 	\caption[Trang thái của end-Node được hiển thị trên app]{Trang thái của end-Node được hiển thị trên app}
 	\label{hinh46}
 \end{figure}
+\indent Giao diện trên Gateway cũng đã hiển thị được các thông số của môi trường và trạng thái của 2 relay.
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.3]{Chapter 4/image chapter 4/Relay1ON-Relay2OFF.png}
 	\caption[Trang thái của end-Node được hiển thị trên Gateway]{Trang thái của end-Node được hiển thị trên Gateway}
 	\label{hinh47}
 \end{figure}
-
+\indent Tương tự, ta tiến hành thử nghiệm bật relay 2 và tắt relay 1.
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.2]{Chapter 4/image chapter 4/R2ONR1OFF.jpg}

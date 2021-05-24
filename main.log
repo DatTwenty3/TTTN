@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  21 MAY 2021 14:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.19)  24 MAY 2021 13:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1222,64 +1222,64 @@ ne 142.
 File: Chapter 4/image chapter 4/figure.png Graphic file (type png)
 <use Chapter 4/image chapter 4/figure.png>
 Package pdftex.def Info: Chapter 4/image chapter 4/figure.png  used on input li
-ne 9.
+ne 10.
 (pdftex.def)             Requested size: 365.55928pt x 72.87096pt.
 <Chapter 4/image chapter 4/phancung.jpg, id=346, 2055.68pt x 1541.76pt>
 File: Chapter 4/image chapter 4/phancung.jpg Graphic file (type jpg)
 <use Chapter 4/image chapter 4/phancung.jpg>
 Package pdftex.def Info: Chapter 4/image chapter 4/phancung.jpg  used on input 
-line 15.
+line 17.
 (pdftex.def)             Requested size: 411.12872pt x 308.34654pt.
-<Chapter 4/image chapter 4/appMT.png, id=347, 694.09312pt x 368.1253pt>
-File: Chapter 4/image chapter 4/appMT.png Graphic file (type png)
-<use Chapter 4/image chapter 4/appMT.png>
-Package pdftex.def Info: Chapter 4/image chapter 4/appMT.png  used on input lin
-e 22.
-(pdftex.def)             Requested size: 277.63232pt x 147.24751pt.
-<Chapter 4/image chapter 4/gwMT.png, id=348, 1028.34187pt x 261.22594pt>
-File: Chapter 4/image chapter 4/gwMT.png Graphic file (type png)
-<use Chapter 4/image chapter 4/gwMT.png>
-Package pdftex.def Info: Chapter 4/image chapter 4/gwMT.png  used on input line
- 28.
-(pdftex.def)             Requested size: 411.32947pt x 104.48851pt.
  [16
 
 
 
  <./Chapter 4/image chapter 4/figure.png> <./Chapter 4/image chapter 4/phancung
 .jpg>]
+<Chapter 4/image chapter 4/appMT.png, id=352, 694.09312pt x 368.1253pt>
+File: Chapter 4/image chapter 4/appMT.png Graphic file (type png)
+<use Chapter 4/image chapter 4/appMT.png>
+Package pdftex.def Info: Chapter 4/image chapter 4/appMT.png  used on input lin
+e 32.
+(pdftex.def)             Requested size: 277.63232pt x 147.24751pt.
+<Chapter 4/image chapter 4/gwMT.png, id=353, 1028.34187pt x 261.22594pt>
+File: Chapter 4/image chapter 4/gwMT.png Graphic file (type png)
+<use Chapter 4/image chapter 4/gwMT.png>
+Package pdftex.def Info: Chapter 4/image chapter 4/gwMT.png  used on input line
+ 38.
+(pdftex.def)             Requested size: 411.32947pt x 104.48851pt.
 <Chapter 4/image chapter 4/R1ONR2OFF.jpg, id=354, 1445.4pt x 1084.05pt>
 File: Chapter 4/image chapter 4/R1ONR2OFF.jpg Graphic file (type jpg)
 <use Chapter 4/image chapter 4/R1ONR2OFF.jpg>
 Package pdftex.def Info: Chapter 4/image chapter 4/R1ONR2OFF.jpg  used on input
- line 35.
+ line 46.
 (pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
 <Chapter 4/image chapter 4/appR1ONR2OFF.png, id=355, 694.09312pt x 1541.76pt>
 File: Chapter 4/image chapter 4/appR1ONR2OFF.png Graphic file (type png)
 <use Chapter 4/image chapter 4/appR1ONR2OFF.png>
 Package pdftex.def Info: Chapter 4/image chapter 4/appR1ONR2OFF.png  used on in
-put line 41.
+put line 53.
 (pdftex.def)             Requested size: 138.81616pt x 308.34654pt.
-<Chapter 4/image chapter 4/Relay1ON-Relay2OFF.png, id=356, 1028.34187pt x 578.1
+ [17 <./Chapter 4/image chapter 4/appMT.png> <./Chapter 4/image chapter 4/gwMT.
+png> <./Chapter 4/image chapter 4/R1ONR2OFF.jpg>]
+<Chapter 4/image chapter 4/Relay1ON-Relay2OFF.png, id=362, 1028.34187pt x 578.1
 6pt>
 File: Chapter 4/image chapter 4/Relay1ON-Relay2OFF.png Graphic file (type png)
 <use Chapter 4/image chapter 4/Relay1ON-Relay2OFF.png>
 Package pdftex.def Info: Chapter 4/image chapter 4/Relay1ON-Relay2OFF.png  used
- on input line 47.
+ on input line 60.
 (pdftex.def)             Requested size: 308.50494pt x 173.44933pt.
- [17 <./Chapter 4/image chapter 4/appMT.png> <./Chapter 4/image chapter 4/gwMT.
-png> <./Chapter 4/image chapter 4/R1ONR2OFF.jpg>]
 <Chapter 4/image chapter 4/R2ONR1OFF.jpg, id=363, 1445.4pt x 1084.05pt>
 File: Chapter 4/image chapter 4/R2ONR1OFF.jpg Graphic file (type jpg)
 <use Chapter 4/image chapter 4/R2ONR1OFF.jpg>
 Package pdftex.def Info: Chapter 4/image chapter 4/R2ONR1OFF.jpg  used on input
- line 54.
+ line 67.
 (pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
 <Chapter 4/image chapter 4/appR1OFFR2ON.png, id=364, 694.09312pt x 1541.76pt>
 File: Chapter 4/image chapter 4/appR1OFFR2ON.png Graphic file (type png)
 <use Chapter 4/image chapter 4/appR1OFFR2ON.png>
 Package pdftex.def Info: Chapter 4/image chapter 4/appR1OFFR2ON.png  used on in
-put line 60.
+put line 73.
 (pdftex.def)             Requested size: 138.81616pt x 308.34654pt.
  [18 <./Chapter 4/image chapter 4/appR1ONR2OFF.png> <./Chapter 4/image chapter 
 4/Relay1ON-Relay2OFF.png>]
@@ -1288,7 +1288,7 @@ put line 60.
 File: Chapter 4/image chapter 4/Relay1OFF-Relay2ON.png Graphic file (type png)
 <use Chapter 4/image chapter 4/Relay1OFF-Relay2ON.png>
 Package pdftex.def Info: Chapter 4/image chapter 4/Relay1OFF-Relay2ON.png  used
- on input line 66.
+ on input line 79.
 (pdftex.def)             Requested size: 308.50494pt x 173.44933pt.
 ) [19 <./Chapter 4/image chapter 4/R2ONR1OFF.jpg> <./Chapter 4/image chapter 4/
 appR1OFFR2ON.png>] [20 <./Chapter 4/image chapter 4/Relay1OFF-Relay2ON.png>]
@@ -1320,13 +1320,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 6C75A2BE04925CC1351EE23AA04C6A1E;7042.
  ) 
 Here is how much of TeX's memory you used:
- 22461 strings out of 478994
- 404877 string characters out of 5857680
+ 22462 strings out of 478994
+ 404891 string characters out of 5857680
  682555 words of memory out of 5000000
- 39384 multiletter control sequences out of 15000+600000
- 447133 words of font info for 69 fonts, out of 8000000 for 9000
+ 39385 multiletter control sequences out of 15000+600000
+ 449417 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,9n,89p,1085b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 87i,9n,89p,1085b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/Software/texlive/2021/texmf-dist/fonts/enc/dvips/vntex/t5.enc}{d:/Softwar
 e/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/Software/texlive/2021
 /texmf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb><d:/Software/texlive/2021/texmf-
@@ -1335,7 +1335,7 @@ onts/type1/urw/times/utmr8a.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type
 1/vntex/urwvn/utmr8v.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex
 /urwvn/utmri8v.pfb><d:/Software/texlive/2021/texmf-dist/fonts/type1/vntex/vnr/v
 ntt10.pfb>
-Output written on main.pdf (29 pages, 4571034 bytes).
+Output written on main.pdf (29 pages, 4573318 bytes).
 PDF statistics:
  438 PDF objects out of 1000 (max. 8388607)
  359 compressed objects within 4 object streams

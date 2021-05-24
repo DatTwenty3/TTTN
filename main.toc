@@ -28,7 +28,7 @@
 \contentsline {subsection}{\numberline {3.5}MODULE 2 RELAY OPTO 5VDC}{15}{subsection.3.5}%
 \contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 4: KẾT QUẢ THỰC HIỆN}{16}{figure.caption.18}%
 \contentsline {subsection}{\numberline {4.1}KẾT QUẢ THI CÔNG PHẦN CỨNG}{16}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}KIỂM TRA CÁC THÔNG SỐ NHIỆT ĐỘ \& ĐỘ ẨM}{17}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.2}KIỂM TRA CÁC THÔNG SỐ NHIỆT ĐỘ \& ĐỘ ẨM}{16}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}KIỂM TRA HOẠT ĐỘNG CỦA MODULE 2 RELAY}{17}{subsection.4.3}%
 \contentsline {section}{\hbox to\@tempdima {\hfil } CHƯƠNG 5: KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN}{21}{figure.caption.28}%
 \contentsline {subsection}{\numberline {5.1}KẾT LUẬN}{21}{subsection.5.1}%
